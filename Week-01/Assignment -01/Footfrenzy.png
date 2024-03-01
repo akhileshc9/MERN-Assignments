@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<!-- saved from url=(0087)https://www.figma.com/community/file/1267043823501852517/footfrenzy-shoe-e-commerce-app -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+    
+
+
+        <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@figma">
+    <meta name="twitter:title" content="Footfrenzy- Shoe E-commerce App | Figma Community">
+    <meta name="twitter:description" content="Hi GUIs!! 😎
+This is my latest exploration for &#39;&#39;Shoe E-commerce APpDesign&quot;
+Feel free to provide your feedback and don&#39;t forget to ❤️
+to support the shot.
+Thank you!!
+
+Every project starts with a good conversation.
+💬 Let&#39;s Chat! 
+💌 I am open to new projects!&amp;nbsp;
+👋🏻musabalam22@gmail.com
+
+Linkedin...">
+    <meta name="twitter:image" content="https://s3-alpha.figma.com/hub/file/3903025431/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://s3-alpha.figma.com/hub/file/3903025431/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png">
+    <meta property="og:url" content="https://www.figma.com/community/file/1267043823501852517/footfrenzy-shoe-e-commerce-app">
+
+    <meta property="og:description" content="Hi GUIs!! 😎
+This is my latest exploration for &#39;&#39;Shoe E-commerce APpDesign&quot;
+Feel free to provide your feedback and don&#39;t forget to ❤️
+to support the shot.
+Thank you!!
+
+Every project starts with a good conversation.
+💬 Let&#39;s Chat! 
+💌 I am open to new projects!&amp;nbsp;
+👋🏻musabalam22@gmail.com
+
+Linkedin...">
+    <meta property="og:image:width" content="1920">
+    <meta property="og:image:height" content="960">
+
+    <link rel="preload" as="fetch" crossorigin="anonymous" href="https://www.figma.com/api/hub_files/1267043823501852517/versions" data-fetch-preload-type="versions">
+    <link rel="preload" as="image" fetchpriority="high" href="./Footfrenzy_files/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png" imagesrcset="/community/thumbnail?resource_type=file&amp;resource_id=1267043823501852517&amp;width=160&amp;signature=c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover 160w, /community/thumbnail?resource_type=file&amp;resource_id=1267043823501852517&amp;width=800&amp;signature=c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover 800w, /community/thumbnail?resource_type=file&amp;resource_id=1267043823501852517&amp;width=1200&amp;signature=c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover 1200w, https://s3-alpha.figma.com/hub/file/3903025431/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 1600w" imagesizes="(min-width: 2048px) 50vw, 100vw">
+
+    <meta name="description" content="Hi GUIs!! 😎
+This is my latest exploration for &#39;&#39;Shoe E-commerce APpDesign&quot;
+Feel free to provide your feedback and don&#39;t forget to ❤️
+to support the shot.
+Thank you!!
+
+Every project starts with a good conversation.
+💬 Let&#39;s Chat! 
+💌 I am open to new projects!&amp;nbsp;
+👋🏻musabalam22@gmail.com
+
+Linkedin...">
+    <link rel="canonical" href="https://www.figma.com/community/file/1267043823501852517/footfrenzy-shoe-e-commerce-app">
+
+     
+    <script nonce="">
+      if (function() {
+        if (window.WebGL2RenderingContext === undefined) {
+          // WebGL2.0 check
+          return true
+        }
+        if (window.WeakRef === undefined) {
+          // WeakRef check
+          return true
+        }
+      }()) {
+        location.href = '/unsupported_browser'
+      }
+    </script>
+
+
+
+
+
+
+    <script nonce="" type="application/json" data-initial="">{"INITIAL_OPTIONS":{"experiments":{"exp_early_bundles_v1":{"assignment_weights":{"enabled":50,"not_enabled":50},"randomization_method":0,"winner":"enabled","treatment_names":["not_enabled","enabled"]},"exp_approved_libraries":{"assignment_weights":{"ga":100,"beta":0,"control":0},"randomization_method":0,"winner":"ga","treatment_names":["control","beta","ga"]},"exp_approved_libraries_warnings":{"assignment_weights":{"ga":100,"beta":0,"control":0},"randomization_method":0,"winner":"ga","treatment_names":["control","beta","ga"]},"exp_billing_groups":{"randomization_method":0,"winner":"ga","treatment_names":["control","beta","ga"]},"exp_billing_true_up_glow_up":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_growth_h123_holdout_team":{"assignment_weights":{"ignore":90,"in_holdout":5,"not_in_holdout":5},"randomization_method":0,"winner":"not_in_holdout","treatment_names":["ignore","in_holdout","not_in_holdout"]},"exp_growth_h123_holdout_user":{"assignment_weights":{"ignore":90,"in_holdout":5,"not_in_holdout":5},"randomization_method":0,"winner":"not_in_holdout","treatment_names":["ignore","in_holdout","not_in_holdout"]},"exp_edit_action_orgs":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_edit_action_teams":{"assignment_weights":{"control":15,"variant":85},"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_edu_onboarding_acc_creation":{"randomization_method":0,"treatment_names":["control","variant"]},"exp_extension_trust":{"randomization_method":0,"treatment_names":["control","variant"]},"exp_figjam_ia_refresh":{"assignment_weights":{"control":0,"treatment":100},"randomization_method":0,"treatment_names":["control","treatment"]},"exp_figjam_onboarding_make_tmpl":{"assignment_weights":{"control":0,"variant":100},"randomization_method":0,"winner":"","treatment_names":["control","variant"]},"exp_figjam_specific_onboarding":{"assignment_weights":{"control":34,"variant_1":33,"variant_2":33},"randomization_method":0,"winner":"variant_2","treatment_names":["control","variant_1","variant_2"]},"exp_international_currencies":{"assignment_weights":{"control":50,"variant":50},"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_move_drafts_v1":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_move_drafts_v2":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_notification_catfile":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_oss_exposure_branching_v1":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_oss_sales_upsell_v1":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_saml_encryption":{"randomization_method":0,"treatment_names":["control","variant"]},"exp_scim_admin_simulator":{"randomization_method":0,"treatment_names":["control","variant"]},"exp_share_options":{"randomization_method":0,"winner":"variant_share_with_dev","treatment_names":["control","variant_share_no_dev","variant_share_with_dev"]},"exp_teams_table_refactor":{"assignment_weights":{"control":100,"variant":0},"randomization_method":0,"treatment_names":["control","variant"]},"exp_workspace_privacy_edit":{"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"stripe_3ds_pro":{"assignment_weights":{"control":0,"variant":100},"randomization_method":0,"treatment_names":["control","variant"]},"xr_debounce_digest_per_org":{"randomization_method":0,"treatment_names":["not_enabled","enabled"]},"exp_ws_public_link_controls":{"assignment_weights":{"control":0,"variant":100},"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_email_org_holdout":{"assignment_weights":{"in_holdout":0,"not_in_holdout":100},"randomization_method":0,"winner":"not_in_holdout","treatment_names":["in_holdout","not_in_holdout"]}},"statsig_figma_app_client_api_key":"client-CIbRGW8h7lTl7wjJTyKWmPVXuJai3B8xe7llhBQmjJX","launchdarkly_client_side_id":"62e9cfc83c59501226eae584","preset_library_hub_file_ids":[],"tracking_session_id":"VFYz6tXDkD6ecvhQ","cluster_name":"prod","error_dashboard_url":"https://errors.figma.com/api","frontend_sentry_dsn":"https://d1b12a8fbe424e4b956eb33cadd5b30d@errors.figma.com/api/sentry/56203","figma_email_suffix":"@figma.com","csp_nonce":"kaSh2V5xsUwnpaF9gRcMNg==","figma_url":"https://www.figma.com","api_url":"https://api.figma.com","api_cdn_url":"https://api-cdn.figma.com","workflow_interop_template_id":"1085289819681923775","flash":{"error":null,"warn":null,"success":null},"user_currency_from_ip":"usd","fxr_for_currency":null,"google_contacts_client_id":"68994840458-eaosee3tcba6dmdsdjk4ev1ie5dbob2q.apps.googleusercontent.com","google_contacts_api_key":null,"google_drive_client_id":"438425412978-45umild77kjr12jigqg31ojvlno436ev.apps.googleusercontent.com","google_drive_api_key":"AIzaSyAHNbt8yQ-u-AvdPHTzHodK5eMyVoE5iZ4","cursor_bot":{"product_page_hub_file_id":"1243321298372865757","ginger_hub_file_id":"1243321216166864604","ginger_formatted_text_hub_file_id":"1332121612191312024","ginger_no_text_hub_file_id":"1332121476885922967"},"prototyping_for_gen0":{"asset_hub_file_id":"1256400056994575865"},"google_client_id":"532352704633-6pkces9iboppp465idnovkcqtlsa8j7t.apps.googleusercontent.com","is_explicit_consent_region":false,"consent_region":null,"page_load_token":"pv=1\u0026pr=68f327b40898d977\u0026pt=1709218934\u0026ph=Fhp7_5DYe9iml2DAPvcm7hAvfmK9cFo59krjy8CD5P0","resource_type":null,"email":null,"user_ip":"49.36.33.108","redirect_url":null,"email_token":null,"existing_session":false,"should_use_redirect_instead":false,"mailing_list_checkbox_default":true,"from_chrome_extension":false,"viewer_region":"MH","viewer_city":"Nagpur","iso_code":"IN","editing_file":null,"zeplin_plugin_id":"745330164019088593","avocode_plugin_id":"821674268995163810","avocode_markup_plugin_id":"1065609061080464965","org_id":null,"page_load_team_id":null,"is_cloudfront":true,"segment_web_key":"6Zhdn0wK1GLYzCsb0LIK0oQplS5TXcB2","segment_fullscreen_key":"6uxDivlUmLf95lHRk0R8bZvr8zDxbX5E","stripe_api_public":"pk_live_LKZ0RKjSZG2D2pwdtwrAhkiJ","google_tag_manager_iframe_url":"https://marketing.figma.com","sprig_iframe_url":"https://sprig.figma.com","recaptcha_v3_ent_site_key":"6Le0W80aAAAAAGU9L7qz4o9tQVqrdJVv2M8XHIcd","arkose_public_key":"2C8A87DD-7EEF-4414-895C-D3982246EE49","arkose_challenge_public_key":"A207F8A1-ED09-4325-ACE6-C8E26A458FBA","arkose_frame_url":"https://verify.figma.com/arkose_frame.html","arkose_origin":"https://verify.figma.com","do_arkose":true,"onboarding_plugins":{"icons":["735098390272716381","791103617505812222","1088610476491668236"],"images":["738454987945972471","893426972424060133","838959511417581040","745428728979155171"],"quickstart":["1068919813159975006","1159123024924461424","1028308803768423865"]},"release_manifest_git_commit":"61e95f615e21b45bd9bf3f49656b2c798fcc1773","release_server_git_commit":"55d68e30deee31750bf37cea1bead8fcbe91a50f","release_git_tag":"master","release_manifest_hash":"2fc2c7a75068915742573a7ac2be32d0","feature_flags":{"dynamic_http_session_secrets":true,"api_files_related_links_batch":true,"cookie_banners_community":true,"ui_gb_vat_launch":true,"fullscreen_migrate_check_decode":true,"antispam_mod_review_form":true,"exp_notification_catfile":true,"prototype_temporary_stickyscroll":true,"ce_updated_measurement_lines":true,"figjam_quick_add_fixes":true,"exp_design_draft_file_edit_req":true,"teamplates":true,"exp_required_signal_collection":true,"set_loading_smgcc":true,"desktop_push_notifs_win":true,"pixie_worker_on_sinatra_put":true,"ce_snap_frame_to_children":true,"media_copy_403_access":true,"vat_tax_collection_in":true,"ui_switz_liech_vat_launch":true,"figjam_tab_order":true,"localize_image_writes":true,"api_file_batch_filter_by_perms":true,"figjam_container_interop":true,"statsig_server_use_data_store":true,"r2c_multiplayer_nux":true,"desktop_push_notifs_mac":true,"plugins_iframe_csp_recommend":true,"dt_dm_beta_ending_banner":true,"log_db_events_batching":true,"edit_scopes_snapshots_field":true,"admin_requests_dashboard_orgs":true,"ce_no_sync_layout_plugins":true,"multiplayer_props_ref_fields":true,"ps_favorites_team_id_writes":true,"figjam_ai_onboarding":true,"cmty_use_has_playground_file":true,"locality_aware_new_blank_file":true,"perm_dbloader_replica_read":true,"pixie_log_requests":true,"org_cache_stripe_customer":true,"cookie_banners_auth":true,"branching_generate_v2_diffs":true,"default_teams_using_workspaces":true,"comments_html_paste":true,"async_unpublish_library_files":true,"cmty_plugin_rdp_redesign":true,"ds_test_presigned_post":true,"exp_fj_category_templates_shelf":true,"serve_codesplit_module_preload":true,"fbg_blocking_mobile_app_prompt":true,"figjam_differentiate_stickies":true,"notif_write_to_loadable_table":true,"dsa_teams_in_org":true,"disable_skt_for_search":true,"ps_create_team_drafts_job_writes":true,"presigned_post_uploads_proxy":true,"vat_tax_collection_kr":true,"idle_timeout":true,"exp_standardize_pro_entrypoints":true,"scenegraph_hooks_editor_ui":true,"enforce_updated_org_experiment":true,"error_boundary_logging":true,"billing_vat_exchange_footer":true,"prevent_redirects_with_ice_cream":true,"statsig_enable_server_bootstrap":true,"optimization_exposure_logging":true,"font_index_230207_figma_hand_2":true,"domain_verification_backfill_ult":true,"r2c_warning_chrome_version":true,"notif_write_to_sub_tables":true,"plugins_parallelize_load_sandbox":true,"plugins_component_from_node":true,"search_filter_file_session_msgs":true,"trackable":true,"unlimited_delduptmpl_backfill":true,"fastma":true,"embed_storage_access_api":true,"figjam_differentiate_stickies_v3":true,"folder_lifecycle_abstraction":true,"shared_fonts_client_perms_dryrun":true,"exp_move_drafts_v1":true,"fullscreen_edge_click_fix":true,"ps_team_drafts_creation":true,"use_stripe_tax_id":true,"dsa_ignore_figma_basics_usages":true,"fb_offline_notification":true,"mx_vat_id":true,"cmty_rdp_redesign_publishing":true,"ds_snowy_moon_fix":true,"dsa_migrate_org_actions":true,"use_on_read_hooks":true,"editor_expose_save_local_copy":true,"full_file_validation_verbose":true,"figment_retryable_requests":true,"stripe_3ds_allow_incomplete":true,"ee_paste_in_raster_mode":true,"replica_api_recent_files":true,"ce_accessibility_image_alt_text":true,"prototype_hide_matching_noodles":true,"font_index_230120_figma_hand":true,"vat_figma_id_kr":true,"xrv:tracking_to_datadog":true,"billing_seat_rename_overlay":true,"lgm_ou_backfill_unlimited":true,"full_rollout_cart_currencies_eur":true,"cp_use_small_laidglyph":true,"ps_team_drafts_deny_policies":true,"statsig_client_enable_prefetch":true,"address_mig_dry_run_disabled":true,"ml_prod_training_hub_export":true,"dt_lego_version_history":true,"cortex_service_enabled":true,"dse_library_v4_no_whitespace":true,"ds_vars_trav_sublayers_styles":true,"cmty_m10n_vat_addr_collection":true,"text_data_derived_sep_log_DSD":true,"ee_color_management_mirror":true,"ch_li_vat_id":true,"search_disable_file_v11":true,"api_recent_files_v2":true,"consistency_checker_execution":true,"russia_edu_gate":true,"antispam_arkose_google_signup":true,"permissions_loading_behavior":true,"variables_paste_remap":true,"reconnect_incremental_deps":true,"pc_ela_upgrade_backfill_unlt":true,"ce_view_only_mode_text_selection":true,"api_contacts_v2_at_mentions":true,"ee_linear_dodge_burn":true,"antispam_arkose":true,"antiabuse_rate_limits":true,"search_experiment_file_v12_write":true,"ds_component_props_mp_repair":true,"ext_codegen_defaults":true,"desktop_live_updates_beta_v2":true,"ce_snap_text_box":true,"cmty_creator_payout_statmts_gen":true,"dt_lego_ext_csp":true,"dynamic_authn_mac_key":true,"file_analysis_frequency":true,"check_team_perms_user_state":true,"shared_with_you_push_to_redux":true,"branching_no_undo_to_bp":true,"jp_vat_launch":true,"search_opensearch_write_com_rscs":true,"exp_growth_h123_holdout_user":true,"dynamic_hmac_secret_key":true,"ps_benchmark_upgrade_prevention":true,"ee_no_inval_frame_ancestors":true,"partnerstack_affiliate":true,"folder_share_modal_roles_use_lg":true,"dg_orphaned_teams_no_limit":true,"cmty_hf_rdp_carousel_verif":true,"xr_debounce_digest_per_org":true,"multiplayer_props_asgmt_fields":true,"report_periodic_metrics_on_load":true,"ee_accessibility_log_perf":true,"prototype_preview_device_frames":true,"ce_font_metadata_mismatch":true,"scenegraph_hooks_objects_panel":true,"figjam_template_tracking":true,"variables":true,"branching_section_diffs":true,"ps_role_to_team_user_backfill":true,"serve_webpack_preload":true,"marketo_user_updates_with_jitter":true,"sunflower_link_share_tracking":true,"ps_planless_create_redirect":true,"plugins_inc_linter_template":true,"vat_figma_id_ca":true,"search_opensearch_write_teams":true,"file_browser_migrate_favorites":true,"prototype_new_mouse_events":true,"account_type_requests_backfill":true,"org_trials_v1_ux":true,"figjam_templates_modal_reorg":true,"ps_favorites_by_team":true,"validate_payment_address":true,"lgm_ou_backfill_full_run":true,"antiscraping_rate_limits":true,"multiplayer_new_qg":true,"livegraph_shim_generic":true,"library_updates_by_page":true,"ds_workspace_team_default_modes":true,"admin_customer_setup":true,"jp_vat_id":true,"multiplayer_props_def_fields":true,"ice_cream_dynamic_secret_fetch":true,"scim_dev_mode":true,"branching_use_v2_diffs":true,"team_member_query_optimization":true,"ui_de_vat_launch":true,"e2e_hard_delete_backfill_ultd":true,"ext_codegen_strict_generate":true,"ee_text_tabbing":true,"billing_free_periods":true,"livegraph_shim_role_full_read":true,"realtime_stop_ouc":true,"dg_orphaned_teams_backfill":true,"block_double_logging_upgrades":true,"zendesk_user_sync_off":true,"branching_no_bg_inst_updates":true,"desktop_no_403_old_clients":true,"antispam_rules_engine_remote":true,"billing_groups_ga__check_writes":true,"figjam_section_resize_to_fit":true,"figjam_jamboard_easy_signup":true,"r2c_mobile_redirect":true,"perm_load_plan_optimized":true,"exp_approved_libraries":true,"invoice_created_billing_lock":true,"incremental_loading_autosave":true,"ee_truncate_mid_word":true,"cmty_log_invalid_actions":true,"ps_improve_drafts_owner_check":true,"multiplayer_anon_auth_check":true,"r2c_org_admin_members_onboarding":true,"i18n_dynamic_strings":true,"antiabuse_app_auth_rl":true,"comments_activity_emails":true,"ps_batch_favorite_team_updates":true,"dynamic_zendesk_secrets":true,"ui_southafrica_vat_launch":true,"cmty_likes":true,"r2c_workflow_interop":true,"ee_compress_stroke_glyph_vn":true,"notif_read_from_loadable_table":true,"search_filter_index_msgs_dry_run":true,"cmty_m10n_auto_acpt_elig_creator":true,"partnerstack_affiliate_upgrade":true,"r2c_org_admin_survey":true,"cookie_banners_file_viewer":true,"replica_api_image_auth":true,"statsig_client_use_relay_proxy":true,"fetch_org_skip_user_query":true,"mirror_sinatra_write_path":true,"billing_promotions":true,"web_vitals_report":true,"exp_redirect_mobile_sign_up_v1":true,"edit_info_observer":true,"r2c_plugin_publish_invite":true,"ps_team_drafts_backfill":true,"chunked_size_5000":true,"search_opensearch_read_com_rscs":true,"search_remove_terminate_after":true,"livegraph_sync_client_query_ids":true,"plugins_approval_management":true,"fullscreen_fast_stroke_shadow":true,"emoji_14_sinatra_to_unicode":true,"crash_on_web_context":true,"editor_zero_width_input":true,"exp_edit_action_teams":true,"ps_ensure_users_have_plan":true,"org_downgrade_fix_seq_scan":true,"r2c_org_admin_teams_onboarding":true,"desktop_live_updates_presenter":true,"r2c_local_component_drag_drop":true,"search_write_load_shedding_queue":true,"comments_media":true,"exp_oss_sales_upsell_v1":true,"exp_international_currencies_org":true,"ps_limited_file_re_run":true,"ee_consistent_bullet_styles":true,"filter_fac_by_cursor_id":true,"oauth_secret_rotate":true,"periodic_team_file_count_repair":true,"billing_dev_mode_invoicing":true,"livegraph_shim_file_dark_read":true,"autosave_activity_log":true,"gbo_new_customer_obp":true,"figjam_sticky_clustering":true,"serve_codesplit_preload":true,"render_tree_diff_page_switch":true,"report_periodic_metrics_in_proto":true,"ds_auto_repair_override_keys":true,"ce_relevant_star_controls":true,"comments_activity_hot_file_write":true,"ce_multi_edit_entrypoints":true,"dev_mode_suggested_upgrades":true,"free_tier_refresh_launch":true,"notif_skip_changing_cp_sub":true,"r2c_org_admin_selection_onbrdng":true,"dt_lego_annotations_overlays":true,"tsmer_use_fallback_empty":true,"tfc_repair_backfill_full_run":true,"gbo_enable_stubs":true,"exp_design_to_figjam_whats_new":true,"figjam_creation_dataset":true,"user_highest_plan":true,"exp_international_currencies":true,"figjam_color_ramp_stroke":true,"comments_media_in_emails":true,"exp_figjam_workflow_interop":true,"use_glslx_replacement":true,"dev_mode_auto_run_plugin":true,"russia_card_block":true,"community_feed_cached":true,"ce_tab_to_autocorrect_spelling":true,"activity_logs_surfaced_for_scim":true,"ps_team_drafts_tmpl_fix":true,"block_invalid_team_user_upgrades":true,"crash_on_cpp_exception":true,"dsa_pregenerate_threading":true,"version_history_incremental_load":true,"cmty_category_serialize_on_rdp":true,"org_merge_migrate_deleted_drafts":true,"batch_fps_logging":true,"email_incomplete_new_team":true,"r2c_onboard_editor_new_user_surv":true,"library_updates_by_page_if_incr":true,"teams_table_es_indexer_updates":true,"account_type_requests_unlimited":true,"figjam_text_to_visual":true,"members_es_indexing_watcher":true,"full_rollout_cart_currencies_gbp":true,"skip_true_ups_with_dm":true,"ce_font_size_previews":true,"i18n_redis_cache":true,"batched_file_hard_delete_for_org":true,"antifraud_cmty_m10n_buy_rl":true,"variables_nested_variant_props":true,"billing_free_periods_with_dm":true,"antiabuse_create_oauth_token_rl":true,"faster_fps_logging":true,"shared_fonts_use_freetype":true,"cmty_hide_remixes_in_publish":true,"realtime_check_invite_flag":true,"autosave_flush_limboed_changes":true,"mobile_prompt_sidebar_modal":true,"cleanup_expired_notif_backfill":true,"r2c_upsell_libraries":true,"antiabuse_ugc_scan":true,"xrv:tracking":true,"ce_microsoft_ime_fix":true,"hub_file_cross_origin_viewer":true,"ui_eu_vat_launch":true,"exp_use_accessed_page_data_only":true,"mx_ch_za_vat_launch":true,"exp_pro_vr_migrate_org":true,"starter_edit_link_modal":true,"fullscreen_del_inst_sublayers":true,"dt_playground_bubbled_props":true,"tax_id_status_admin_ui":true,"exp_figjam_cta_placeholder_text2":true,"exp_approved_libraries_warnings":true,"enable_marketo_user_delete":true,"exp_pro_vr_email":true,"sc_folder_sa_audience_backfill":true,"livegraph_shim_role_dark_read":true,"search_fa_skip_from_created_at":true,"string_size_limit_256mb":true,"batch_delete_team_members":true,"figment_batch_metadata":true,"limit_payment_failed_emails":true,"figjam_text_to_visual_gantt_v3":true,"permissions_v2_can_discover_ufrs":true,"requires_action_3ds_banner":true,"dev_mode_org_pinned_plugins_ent":true,"admin_requests_dashboard_teams":true,"dynamic_unsubscribe_salt":true,"team_user_dev_mode_beta_usage":true,"billing_dev_mode_members_preview":true,"cmty_saves_search":true,"file_browser_lg_folder_view":true,"exp_org_synchronous_emails":true,"comments_faster_saving_ux":true,"ee_color_management_circle_p3":true,"statsig_server_error_sampling":true,"ds_publish_handle_create_race":true,"stripe_3ds_change_payment":true,"admin_requests_dashboard":true,"cmty_rdp_creator_controls":true,"use_glslx_replacement_viewer":true,"ps_dtm_lg_file_checks":true,"ee_masktype_plugins":true,"r2c_open_playground":true,"sc_disable_team_role_edit_check":true,"audit_joins":true,"offline_detection_shadow_logging":true,"ps_exclude_draft_folder_members":true,"log_db_event":true,"billing_free_periods_admin":true,"cmty_write_to_notif_sub_tables":true,"antiabuse_goog_sso_events":true,"share_modal_async_autocomplete":true,"dev_mode_beta_banner":true,"sc_team_experience_teams_1":true,"ce_flyout_pointer_up_enabled":true,"ee_color_management_mobile":true,"email_deduplication":true,"marketo_user_delete_async":true,"exp_pro_vr_double_write_org":true,"skip_true_ups_by_license":true,"dynamic_sendgrid_api_secret":true,"ee_color_management_images":true,"ee_rulers_and_guides_right_click":true,"ee_color_management_image":true,"billing_groups_ga__figjam_filter":true,"search_opensearch_write_folders":true,"plugins_incremental_loading_api":true,"realtime_enable_allowlist_check":true,"ds_limit_go_to_source":true,"prototype_preview_view_options":true,"emoji_14_sinatra_to_shortcode":true,"multiplayer_preload_doc":true,"share_as_dev_mode":true,"exp_fj_draft_file_edit_req_v2":true,"dt_edit_info_fixes":true,"nux_dynamic_preview":true,"realtime_stop_file_msg":true,"replica_files":true,"react_18_entrypoints":true,"r2c_move_drafts_nudge_v2":true,"authn_write_first_pass_cookies":true,"font_skip_inter":true,"ce_paste_replace_styles":true,"widgets_hardcode_cocreators":true,"api_elevated_scopes":true,"ps_personal_draft_migration":true,"figjam_ai_classification_v2":true,"multiplayer_track_unique_guids":true,"ce_set_contrasting_stroke_color":true,"jamgpt":true,"scenegraph_hooks_mirror_helpers":true,"search_experiment_file_v12_read":true,"stripe_3ds_pro":true,"cmty_rdp_redesign_new_s3_buckets":true,"tooltips_plus_ui_enabled":true,"billing_seat_rename_emails":true,"ps_create_team_drafts_on_read":true,"desktop_no_custom_trafficlights":true,"ps_fav_rsrcs_team_id_backfill":true,"admin_settings_layout_revamp":true,"ee_hb_separate_scripts":true,"ce_font_shared_previews_v3":true,"ext_vscode_plugins":true,"pro_vr_redirect_endpoint":true,"prototype_new_mouse_perf":true,"cmty_disable_vat_for_india":true,"ps_lock_all_plans_during_org_op":true,"xr_debounce_beta_badging":true,"replica_api_file_new":true,"vat_save_ca":true,"permissions_load_cache_enabled":true,"fullscreen_fast_rounded_rect":true,"pro_team_checkout_updated_terms":true,"display_3ds_frontend":true,"frontend_deploys_canary":true,"plugin_preference_backfill":true,"search_dsa_large_batches":true,"cmty_logged_in_rdp_redesign":true,"billing_groups_ga__onboarding":true,"r2c_org_cart_abandon_survey":true,"ui_mexico_vat_launch":true,"dt_lego_annotations":true,"cmty_lego_plugins":true,"ee_system_theme_default":true,"search_swallow_fa_rs_logs":true,"fig_icons":true,"free_periods_backfill_unlt":true,"user_theme_preference":true,"dt_lego_suggest_variables":true,"crash_on_oom":true,"sections_paint_edit_scope_fix":true,"cmty_saves":true,"dirty_single_state_during_copy":true,"exp_community_universal_posting":true,"unified_file_delete_modal":true,"billing_seat_rename":true,"locality_aware_videos":true,"exp_oss_exposure_branching_v1":true,"figjam_fix_drawing_drag_handles":true,"prototype_async_font_loading":true,"dt_lego_ext":true,"ps_favorites_backfills":true,"serve_esm_output":true,"ee_hsl_hue_epsilon_equality":true,"context_menus_focus_fix":true,"livegraph_shim_file_full_read":true,"log_top_search_results_fig_files":true,"create_activity_log_job_v2":true,"ui_fr_vat_launch":true,"ps_planless_users_backfill":true,"livegraph_shim_enabled":true,"vat_save_kr":true,"exp_edit_action_orgs":true,"exp_teams_table_refactor":true,"org_admin_lg_dark_read2":true,"cmty_profile_search_followers":true,"ee_write_ignore_leading_trim":true,"pro_team_last_upgraded_at":true,"marketo_user_upsert_logging":true,"notif_cmty_mark_all_read_query":true,"antispam_mod_custom_fields":true,"save_as_improvements":true,"billing_dev_mode_mt_csv":true,"desktop_ps_new_tab_reload":true,"favorites_clean_up_job":true,"dt_dev_mode_discovery_modal":true,"disable_local_web":true,"exp_plugins_in_onboarding":true,"ce_no_nan_size_overrides":true,"extension_analytics_org":true,"full_rollout_cart_currencies_jpy":true,"antiabuse_voice_rl":true,"vat_show_example_format":true,"billing_promotions_refund_unused":true,"search_no_oldest_editor":true,"plugins_incremental_loading":true,"antispam_mod_prod_area":true,"image_io_worker_bundle":true,"ce_multiplayer_text_if_logging":true,"lazy_initialization_fix":true,"statsig_client_sdk_enabled":true,"prototype_open_url_in_new_tab":true,"domain_verification_backfill":true,"antiabuse_rm_sensitive_keys":true,"ds_network_status_ui":true,"desktop_haptics_experimental":true,"multiplayer_new_qg_editors":true,"show_account_balance_banner":true,"display_local_org_prices":true,"exp_edu_onboarding_acc_creation":true,"desktop_live_updates_at_mention":true,"ce_predictable_zoom":true,"billing_dev_mode_customer_ui":true,"edit_scopes_for_widget_subtrees":true,"i18n_sample_string_datadog":true,"multiplayer_viewers_write_plugin":true,"sc_team_experience_enabled":true,"billing_free_periods_floor":true,"ps_use_new_favorites_view":true,"i18n_sample_string_sentry_errors":true,"multiplayer_checkpoints_180":true,"pro_team_business_names":true,"figment_default_desktop_batch":true,"dt_lego_redirect_old":true,"antispam_rules_hf_cover_img":true,"scenegraph_hooks_canvas_search":true,"precommit_upgrade_banner_check":true,"dev_mode_license_type_base":true,"statsig_server_sdk_enabled":true,"cmty_disable_remix_publishing":true,"generate_isr_backfill_unlimited":true,"multiplayer_not_logged_in_signal":true,"pixie_worker_on_sinatra_get_var":true,"dt_lego_config_wizard":true,"stripe_3ds_orgs":true,"plugins_incremental_loading_pub":true,"ce_paste_email_as_plaintext":true,"statsig_client_bootstrap":true,"ee_unsanitized_png":true,"update_customer_shipping":true,"edu_offboarding_experience":true,"cmty_browse_codegen_plugins":true,"dsa_restrict_to_design_only":true,"prototype_preview_log_resize":true,"search_bulk_index_in_batches":true,"scenegraph_hooks_remove_slow":true,"penalize_inactive_contact_search":true,"antiabuse_create_dev_token_rl":true,"tfc_repair_backfill_unlimited":true,"fbg_facelift_beta":true,"desktop_isolate_metadata":true,"prototype_nested_state_fix":true,"figjam_quick_add_out_of_section":true,"crash_on_bindings_exception":true,"gradient_tool_improvements":true,"pixie_nsjail":true,"dynamic_stripe_secrets":true,"figjam_diagramming_snapping":true,"intl_browser_deprecation_banner":true,"cmty_m10n_auto_creator_elig":true,"ps_team_root_to_project_backfill":true,"search_opensearch_write_files":true,"zendesk_sync_using_temporal":true,"plugins_inc_page_edge_case":true,"undo_reserve_arrays":true,"replica_api_file_metadata":true,"figjam_handle_hanging_space":true,"figjam_paid_viewer_onboarding":true,"figjam_custom_opacity_stroke":true,"org_checkout_with_dm":true,"internal_profile_v5_index_write":true,"figjam_mindmaps_behavior_enable":true,"ee_easy_exit_outline_mode":true,"shared_fonts_client_side_perms":true,"cmty_resources_in_paid_spaces":true,"gbo_ui_billing_skip_true_up":true,"batched_hard_deletion":true,"xrv:default_figjam_inserts":true,"jamgpt_recents_pin":true,"za_vat_id":true,"edu_onboarding_grace_period":true,"fetch_lifecycles_community_feed":true,"admin_use_oidc_for_current_user":true,"ds_dirty_all_states_in_group":true,"embedding_chunk_text":true,"share_options_fd":true,"scene_events_for_auto_observer":true,"dev_mode_plugin_from_hub_file":true,"cmty_include_carousel_media":true,"wls_for_billing_groups_beta":true,"cmty_m10n_gen_promo_codes":true,"i18n_english_entry_dictionary":true,"livegraph_ignore_sessionId":true,"sc_team_experience_teams_10":true,"ce_text_paste":true,"embedding_figjam_templates":true,"ce_font_style_previews":true,"antispam_rules_engine":true,"admin_billing":true,"admin_org_reduced_fetching":true,"exp_expiring_public_links":true,"ee_shaping_cross_boundaries":true,"dev_mode_suggests_tile_dismissal":true,"full_rollout_cart_currencies_cad":true,"search_timeout_error":true,"frontend_sentry_errors":true,"exp_fbi_community_entrypoint":true,"i18n_auth_de":true,"autosave_activity_log_db":true,"jotai_use_atom_read_store":true,"billing_rl_exempt_test_users":true,"edu_offboarding_jobs":true,"thumbnails_for_thumbnails":true,"cmty_m10n_skip_paid_file_review":true,"file_move_show_all_resources":true,"exp_share_options":true,"sunflower_ux":true,"ps_file_permissions":true,"ee_svg_no_implicit_Z":true,"ps_lg_dtm_counts":true,"penalize_non_recent_contacts_++":true,"dynamic_figment_admin_github_key":true,"ps_exclude_team_drafts_search":true,"multiplayer_journaled_reconnect":true,"use_editor_saved_widgets_lg":true,"billing_groups_ga__billing_admin":true,"ee_color_management_curator":true,"widgets_option_to_update":true,"vat_tax_collection_ca":true,"mark_recents_async":true,"dt_improved_section_snapping":true,"mirror_on_livegraph_tracking":true,"nux_edu_fixes":true,"plugins_incremental_loading_dep":true,"dynamic_stripe_endpoint_secret":true,"last_upgraded_at_backfill":true,"org_billing_setup_with_dm":true,"skip_instance_update_at_load":true,"figjam_3p_file_importer_eraser":true,"generate_isr_backfill_wet_run":true,"ee_cmd_f_static_size_estimator":true,"comments_no_email_replies":true,"r2c_team_join_link_redemption":true,"widgets_in_figma_onboarding":true,"dynamic_stripe_api_secret":true,"font_index_220528":true,"pixie_worker_on_sinatra_get_file":true,"dev_mode_members_table_sort_fix":true,"pixie_worker_on_sinatra_post":true,"exp_figjam_ia_refresh":true,"file_public_link_expiration":true,"ds_variables_relax_modes":true,"starter_edit_link_modal_viewer":true,"scim_roleset_sunset_231201":true,"multiplayer_signal_validation":true,"skip_set_page_to_requested":true,"multiplayer_checkpoints_75":true,"cmty_profile_image_verification":true,"exp_ip_account_restriction":true,"tsmer_tilingbounds_fix":true,"prototype_multi_path_paywall":true,"search_opensearch_write_profiles":true,"search_batch_bulk_index_files":true,"ps_benchmark_counts":true,"free_periods_backfill":true,"widgets_validation_throws":true,"admin_salesforce_button":true,"ee_paste_rasters_into_fills":true,"replica_api_user_state":true,"ds_variables_strokes":true,"figjam_text_ghost_preview":true,"request_dashboard_scim_filter":true,"figjam_summarization":true,"stripe_3ds_mandate":true,"tom_destroy_templates":true,"figjam_jamboard_offer":true,"desktop_web_logout":true,"ce_font_family_previews":true,"cmty_disable_pinned_comments":true,"ps_team_user_backfill":true,"admin_stub_stripe_invoice":true,"ee_accessibility_inline_css":true,"prototype_always_allow_restart":true,"cmty_footer":true,"cmty_m10n_promo_code_issue":true,"config_2023_features":true,"antiabuse_comment_rl":true,"multiplayer_preload_doc_editor":true,"i18n_web_locales":true,"presigned_post_hub_file_image":true,"validate_postal_code":true,"cookie_banners_prototype":true,"multiplayer_ignore_readonly":true,"thumbnail_guid_force_checkpoint":true,"admin_user_resources_separately":true,"org_user_upgrade_async_notif":true,"figjam_zoom_control_redesign":true,"figjam_inline_quick_add":true,"search_opensearch_run_migrations":true,"ee_scale_tool_reset":true,"ps_benchmark_draft_owner_upgrade":true,"editor_onboarded_curator":true,"figjam_ngima_stickers":true,"plugins_security_form":true,"integ_improved_login_flow":true,"replica_api_roles":true,"figjam_3p_file_importer":true,"activity_logs_enabled_for_scim":true,"pc_ela_upgrade_backfill":true,"gbo_use_org_billing_periods":true,"figment_rate_limit_events":true,"ee_color_management_viewer":true,"use_cards_in_invite_emails":true,"ee_color_management_legacy_p3":true,"library_modal_learn_more":true,"file_analyzer_process_batches":true,"dt_lego_copy_native_code":true,"dev_mode_opt_in":true,"batched_file_comment_notifs":true,"replica_api_paginated_files":true,"templ_copy_file_create_logging":true,"gbo_multiyear_contracts":true,"authn_clean_up_tokens_on_logout":true,"sprig_enabled":true,"last_upgraded_at_unlimited":true,"org_confirm_user_delete_modal_v2":true,"prototype_sticky_scrolling":true,"report_null_shared_ptr":true,"frontend_deploys_canary_userids":true,"org_user_delete_optimization":true,"ds_filter_invalid_overrides_vcm":true,"ps_folder_sub_fav_rsrc_backfill":true,"ce_max_lines_adjust":true,"org_trials_v1":true,"api_create_file":true,"font_index_220803":true,"ce_preserve_rich_text_whitespace":true,"team_root_folder_conversion":true,"exp_move_drafts_v2":true,"e2e_initial_file_in_drafts":true,"exp_early_bundles_v1":true,"exp_email_org_holdout":true,"lg_early_connection":true,"antiabuse_enable_magic_link":true,"prototype_lib_own_manifest":true,"prototype_previous_load_mode":true,"exp_cpp_memory_limit_android":true,"figjam_locked_magnet_positions":true,"comments_digest_for_participants":true,"exp_ws_public_link_controls":true,"antiabuse_file_rl":true,"plugins_granular_allowlist":true,"community_hub_image_inspection":true,"paper_trail_enabled":true,"workspace_members_list":true,"admin_app_search_in_role_tables":true,"waf_only_active_tabs":true,"conveyor_sso_enabled":true,"frontend_sentry_cpp_location":true,"branching_refresh_schema_change":true,"can_view_refresh_page_check":true,"admin_redact_realtime_tokens":true,"plugins_zod_validation":true,"ce_multiplayer_text_logging":true,"e2e_hard_delete_files_backfill":true,"dynamic_ice_cream_secret":true,"alternate_payments":true,"exp_growth_h123_holdout_team":true,"i18n_auth_fr":true,"cmty_hf_details_page_redesign":true,"exp_saml_encryption":true,"batch_subscribe_to_used_assets":true,"nct_ai_quick_actions":true,"pro_members_timeout_fix":true,"dynamic_file_auth_enc_key":true,"search_opensearch_file_browser":true,"exp_billing_true_up_glow_up":true,"antispam_rules_hf_carousel_img":true,"dynamic_twilio_secret":true,"exp_extension_trust":true,"r2c_figjam_ux_feedback_surv":true,"exp_figjam_onboarding_make_tmpl":true,"sunflower_writes":true,"exp_dse_asset_panel_improvements":true,"scenegraph_hooks_voting":true,"antiabuse_community_comment_rl":true,"exp_scim_admin_simulator":true,"gbo_org_billing_period_backfill":true,"sharing_attribution_context_key":true,"comments_platformization":true,"activerecord_cache":true,"invoice_seat_reports_job_create":true,"dt_lego_hide_beta_feedback":true,"team_revoke_editor_query_v2":true,"desktop_color_management_remove":true,"r2c_org_admin_lg_onboarding":true,"twilio_alphanumeric_gb":true,"org_sales_assisted_status":true,"replica_api_folders_files":true,"migrate_to_search_teamplates_v3":true,"realtime_library_file_only":true,"check_folder_perms_user_state":true,"exp_billing_groups":true,"antiabuse_sessions_rl":true,"pixie_worker_on_sinatra":true,"defer_invisible_children":true,"ce_paste_stack_absolute_pos":true,"dt_lego_viewer_edit_canvas":true,"dt_dm_m10n":true,"ui_in_vat_launch":true,"exp_figjam_whats_new_v2":true,"preload_recent_files":true,"block_ru_billing_address":true,"ce_scale_tool_skew":true,"prototype_user_change_throttling":true,"partnerstack_affiliate_figjam":true,"reduce_derived_data":true,"billing_groups_ga__add_members":true,"search_opensearch_write_users":true,"invoice_seat_reports":true,"ee_color_management_force_canvas":true,"stripe_3ds":true,"livestore_use_file_migration":true,"replica_api_recent_prototypes":true,"autosave_debug_migration":true,"reconnect_incr_deps_if_validate":true,"plugins_csp_dev_allowed_domains":true,"scenegraph_hooks_devtools":true,"pro_block_unexpected_editors":true,"integ_use_zoom_meeting_id":true,"cmty_creator_payout_statements":true,"multiplayer_write_to_cache":true,"search_use_request_source":true,"desktop_skip_menu_after_crash":true,"ee_paste_in_gradient_mode":true,"enable_kafka_tailer_for_search":true,"ce_cmd_f_memoize":true,"rest_api_token_user_requirements":true,"antispam_rekognition_rules":true,"internal_test_data_api":true,"ce_font_pup":true,"share_options_fj":true,"ds_variables_authoring_resize":true,"exp_workspace_privacy_edit":true,"ps_permissions":true,"exp_mobile_web_nux":true,"gbo_ui_billing_periods":true,"vat_save_in":true,"file_browser_enable_mweb":true,"allow_bad_kiwi_bool":true,"exp_figjam_specific_onboarding":true,"statsig_disable_statsig_api":true,"cmty_saves_like_migration":true,"workspace_privacy_view":true,"share_with_message_email":true,"dev_mode_default_codegen":true,"admin_use_alb_for_authz":true,"e2e_delete_files_backfill":true},"i18n_desktop_version_support":{"ja":70},"livegraph_preload_views":{},"statsig_bootstrap_values":null,"statsig_project_id":"5ETXMP5xDW3P7AMyQ14tey","datadog_rum_application_id":"91eb025c-e89b-4645-bda6-ca0e442e0b64","datadog_rum_client_token":"pub3f6fa9c94d5ff85890f30fdc10b09c61","datadog_rum_site":"datadoghq.com","datadog_rum_session_sample_rate":0.01,"admin_cognito_logout_url":"https://figma-production-admin.auth.us-west-2.amazoncognito.com/logout?client_id=2lsagdo9asi3ehjvtslcrsqp24\u0026logout_uri=https://admin.figma.com/admin/logout"},"EARLY_ARGS":{"should_connect_to_multiplayer":true}}</script>
+<script nonce="">
+Object.assign(window, JSON.parse(document.querySelector('[data-initial]').textContent));
+
+console.log('Running frontend commit', "61e95f615e21b45bd9bf3f49656b2c798fcc1773");
+
+window.FIGMA_BUNDLE = (function () {
+  const pathsForModules = (() => {
+    const _paths = {
+      'heic': "https://www.figma.com/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/js/heic.min.js.br",
+      'hunspell': "https://www.figma.com/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/js/hunspell.min.js.br",
+      'pdfjs': "https://www.figma.com/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/js/pdfjs.min.js.br",
+      'svgo':"https://www.figma.com/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/js/svgo.min.js.br",
+      'videojs': "https://www.figma.com/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/js/videojs.min.js.br",
+    };
+
+    const _loadedPaths = new Set()
+    return {
+      get: (key) => {
+        return _paths[key];
+      },
+      hasLoaded: (key) => {
+        return _loadedPaths.has(key)
+      },
+      setHasLoaded: (key) => {
+        return _loadedPaths.add(key)
+      },
+    };
+  })();
+
+  const values = {};
+  const promises = {};
+
+  return {
+    export: function (name, value) {
+      if (!pathsForModules.get(name)) {
+        console.warn('please add the "js_path" declaration in "pathsForModules" for "' + name + '".');
+        return;
+      }
+      values[name] = value;
+    },
+
+    import: function (name) {
+      const FAILURE_TEXT = 'failed to load "' + name + '" module!'
+      if (values[name]) return Promise.resolve(values[name])
+
+      const path = pathsForModules.get(name);
+      if (!pathsForModules.get(name)) {
+        return Promise.reject({ error: FAILURE_TEXT + ' "' + name + '" has not been added to "pathsForModules".' })
+      }
+
+      if (promises[path]) {
+        return new Promise((resolve, reject) => {
+          promises[path].then(_ => resolve(values[name])).catch(error => reject({ error }));
+        });
+      }
+
+      const promise = new Promise((resolve, reject) => {
+        if (promises[path]) return;
+
+        const script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("type", "module");
+        script.setAttribute("nonce", "kaSh2V5xsUwnpaF9gRcMNg==")
+
+        script.onload = function () {
+          resolve(values[name])
+        };
+        script.onerror = function (error) {
+          reject(error)
+        };
+
+        script.src = pathsForModules.get(name);
+        pathsForModules.setHasLoaded(name);
+        document.body.appendChild(script)
+      });
+      promises[path] = promise;
+      return promise;
+    },
+  };
+})();
+</script>
+
+  <script nonce="">
+    
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:{},n=(new Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="09efa168-a928-5332-a79d-b4ebd825f552")}catch(e){}}();
+function K(t,n){let a=t?"/api/livegraph-next":"/api/livegraph",o=location.host;return o==="admin.staging.figma.com"?o="staging.figma.com":o==="admin.figma.com"&&(o="www.figma.com"),`${location.protocol==="https:"?"wss":"ws"}://${o}${a}?${n}`}function $(t,n){return K(!!t,n??"")}var L=class extends WebSocket{constructor(e,s,a){super(e,s);this.onCloseCb=a;this.events=[];this._onopen_=null;this._onmessage_=null;this._onclose_=null;this._onerror_=null;super.onopen=this.onOpen,super.onmessage=this.onMessage,super.onclose=this.onClose,super.onerror=this.onError}onOpen(e){this.events.push({event:"onopen",ev:e}),this.flushIfInitialized()}onMessage(e){this.events.push({event:"onmessage",ev:e}),this.flushIfInitialized()}onClose(e){var s;(s=this.onCloseCb)==null||s.call(this),this.events.push({event:"onclose",ev:e}),this.flushIfInitialized()}onError(e){this.events.push({event:"onerror",ev:e}),this.flushIfInitialized()}flushIfInitialized(){if(!(!this._onmessage_||!this._onopen_||!this._onclose_||!this._onerror_))for(;this.events.length>0;){let{event:e,ev:s}=this.events.shift();switch(e){case"onopen":this._onopen_(s);break;case"onmessage":this._onmessage_(s);break;case"onclose":this._onclose_(s);break;case"onerror":this._onerror_(s);break}}}set onopen(e){this._onopen_=e,this.flushIfInitialized()}get onopen(){return this._onopen_}set onmessage(e){this._onmessage_=e,this.flushIfInitialized()}get onmessage(){return this._onmessage_}set onclose(e){this._onclose_=e,this.flushIfInitialized()}get onclose(){return this._onclose_}set onerror(e){this._onerror_=e,this.flushIfInitialized()}get onerror(){return this._onerror_}};var R=window.matchMedia("(prefers-color-scheme: dark)");function k(t){return t==="system"?R.matches?"dark":"light":t==="dark"?"dark":"light"}self.global=self;var b=107,Y=(t,n,e,s,a,o)=>{if(t)window.userStateXHR={readyState:4,status:200,responseText:t};else if(window.Fig){if(s||!window.INITIAL_OPTIONS.user_data){window.startUserStateXHR=()=>{};return}window.startUserStateXHR=function(u){var _;let w=a;if(!w){w="/api/user/state";var r=[];window.INITIAL_OPTIONS.org_id&&r.push("org_id="+window.INITIAL_OPTIONS.org_id),window.INITIAL_OPTIONS.team_id&&r.push("team_id="+window.INITIAL_OPTIONS.team_id),e&&r.push("omit_core_data=1"),u&&r.push("file_key="+u),r.length!==0&&(w+="?"+r.join("&"))}window.userStateXHR=new XMLHttpRequest,window.userStateXHR.open("GET",w);let i=(_=window.INITIAL_OPTIONS.user_data)==null?void 0:_.id;i&&window.userStateXHR.setRequestHeader("X-Figma-User-ID",i),window.userStateXHR.send();var c=window.performance?window.performance.now():-1;window.userStateXHR.addEventListener("load",function(){window.userStateXHRDuration=window.performance?window.performance.now()-c:-1},!1),window.sessionStateXHR=new XMLHttpRequest,window.sessionStateXHR.open("GET",o||"/api/session/state"),i&&window.sessionStateXHR.setRequestHeader("X-Figma-User-ID",i),window.sessionStateXHR.send()};let f=location.pathname==="/preload-editor"||location.pathname==="/preload-android-proto"||location.pathname==="/file/new",d=window.INITIAL_OPTIONS.editing_file&&window.INITIAL_OPTIONS.editing_file.key;n?window.startUserStateXHR(d):f||window.startUserStateXHR()}};function G(t){return t==="dark"?"1E1E1E":"F5F5F5"}function W(){let t=null;try{t=window.localStorage}catch{}return t}function j(){var e;if(!((e=window.INITIAL_OPTIONS.feature_flags)!=null&&e.send_initial_bg_color))return"";let t=B(W()),n=k(t);return G(n)}var x="global-debug-theme-preference";function B(t){var n;if(t){let e=t==null?void 0:t.getItem(x);return(n=window.INITIAL_OPTIONS.feature_flags)!=null&&n.ee_system_theme_default&&!e?"system":e}return null}var X="chunked-file-load",Q=5e3,q="send-file-directly";function J(){var e,s,a;if(!((s=(e=window.INITIAL_OPTIONS)==null?void 0:e.feature_flags)!=null&&s.manifest_commit_sha))return b;let t=(a=window.INITIAL_OPTIONS)==null?void 0:a.cluster_name;if(t!=="staging"&&t!=="local")return b;let n=window.location.search;if(n.includes("force-client-version")){let f=new URLSearchParams(n).get("force-client-version");if(f){let d=parseInt(f);if(!isNaN(d)&&d>0)return console.log(`!! Overriding client version to ${d}`),d}}return b}var Z=(t,n)=>{var d,u,w;let e=(d=window.INITIAL_OPTIONS.user_data)==null?void 0:d.id,s=window.INITIAL_OPTIONS.tracking_session_id,a=window.INITIAL_OPTIONS.release_manifest_git_commit,o=window.__figmaDesktop,f=o!=null&&((w=(u=window.INITIAL_OPTIONS)==null?void 0:u.feature_flags)!=null&&w.desktop_mp_client_id)?o.clientID:null;window.mpGlobal={version:J(),sock:null,msgs:[],perfMetrics:[],shouldConnectToMultiplayer:t,url({fileKey:r,role:i,oauthToken:c,nodeIds:_,initialBgColor:h,suppressDecodeErrors:S,connectionType:E,tagForLogging:O,forceViewOnly:N}){var M,y,D,F,C;if(!t)return"";let m=null;n&&r===n.fileKey&&n.targetFileVersion&&(m=n.targetFileVersion);let g="";(i==="editor"||i==="viewerWithCpp")&&_&&(g+=`&scenegraph-queries-initial-nodes=${_}`);let v=window.location.search,I=new URLSearchParams(v),l=((M=window.INITIAL_OPTIONS.feature_flags)==null?void 0:M.recovery_mode)&&I.get("recovery")==="true",p=I.get("merge-on-file-open")==="true";i==="editor"&&(n==null?void 0:n.forceIncrementalForEditors)===1&&!l&&!p?g+="&use-incremental-for-editors=1":((n==null?void 0:n.forceIncrementalForEditors)===0||l||p)&&(g+="&use-incremental-for-editors=0"),i==="editor"&&((y=window.INITIAL_OPTIONS.feature_flags)!=null&&y.incremental_loading_validation)&&(g+="&incremental-loading-validation=1");let T=1;try{let A=JSON.parse(sessionStorage.getItem("reload_times")||"[0]"),z=A[A.length-1];T=Date.now()-z<5e3?1:0}catch{}(i!=="editor"||!((D=window.INITIAL_OPTIONS.feature_flags)!=null&&D.send_initial_bg_color))&&(h="");let P=(F=window.INITIAL_OPTIONS.feature_flags)==null?void 0:F.send_file_directly,H=((C=window.INITIAL_OPTIONS.feature_flags)==null?void 0:C.chunked_file_load)&&E==="initial-load",V=window.INITIAL_OPTIONS.e2e_traffic,U=window.INITIAL_OPTIONS.e2e_test_name;return`${location.protocol.replace("http","ws")}//${location.host}/api/multiplayer/${r}?role=${i}&tracking_session_id=${s}&version=${this.version}&recentReload=${T}&file-load-streaming-compression`+g+(c?"&oauth_token="+c:"")+(e?`&user-id=${e}`:"")+(m?`&target-file-version=${m}`:"")+(a?`&client_release=${a}`:"")+(h?`&initial-bg-color=${h}`:"")+(S?"&suppress-decode-errors":"")+(H?`&${X}`:"")+(H?`&chunk-size=${Q}`:"")+(P?`&${q}`:"")+(O?`&tag-for-logging=${O}`:"")+(V?"&e2e_traffic=true":"")+(U?`&e2e_test_name=${U}`:"")+(N?"&force-view-only":"")+(f?`&clientID=${f}`:"")},DEBUG_THEME_PREFERENCE_KEY:x,DARK_THEME_MEDIA_QUERY:R,themePreferenceFromLocalStorage:B,getBackgroundColorForTheme:G,getVisibleTheme:k,REQUEST_CHUNKED_FILE_LOAD_PARAM:X,preconnect(r){if(t!==!1){if(this.sock){if(r===this.sock.url&&this.sock.readyState!==WebSocket.CLOSED)return;try{this.sock.close()}catch{}}this.sock=new WebSocket(r),this.sock.binaryType="arraybuffer",this.sock.onopen=i=>{this.perfMetrics.push({key:"mp-ws-onopen",ts:performance.now(),nBytes:void 0})},this.sock.onmessage=i=>{let c=new Uint8Array(i.data);this.msgs.push(c),this.perfMetrics.push({key:"mp-ws-onmessage",ts:performance.now(),nBytes:c.length*c.BYTES_PER_ELEMENT})},this.msgs=[],this.perfMetrics=[]}}},n&&mpGlobal.preconnect(mpGlobal.url(n))},ee=t=>{let n=()=>{let s=document.createElement("script");return s.type="text/javascript",s.async=!0,s.setAttribute("nonce",window.INITIAL_OPTIONS.csp_nonce),s.crossOrigin="anonymous",s},e=new Promise((s,a)=>{let o=n();o.onload=s,o.src=t,document.head.appendChild(o)});return e.catch(s=>console.error(`Fetching ${t} failed: ${s}`)),e};(()=>{var r,i,c,_,h,S,E,O,N,m,g,v;let{file_minimal_user_state:t,mock_user_state_for_tests_json:n,multiplayer_preconnect_options:e,omit_core_data:s,omit_user_state:a,preload_fullscreen_urls:o,should_connect_to_multiplayer:f,api_user_state_path:d,api_session_state_path:u}=window.EARLY_ARGS||{};if(window.INITIAL_OPTIONS||(window.INITIAL_OPTIONS={}),Y(n,!!t,!!s,!!a,d,u),!/iPhone|iPad|iPod/.test(navigator.userAgent)&&((i=(r=window.INITIAL_OPTIONS)==null?void 0:r.feature_flags)!=null&&i.livegraph_connect_earlyjs)){let I=(_=(c=window.INITIAL_OPTIONS)==null?void 0:c.feature_flags)==null?void 0:_.livegraph_connect_next,l=new URLSearchParams((h=window.INITIAL_OPTIONS)==null?void 0:h.page_load_token);l.append("userId",((E=(S=window.INITIAL_OPTIONS)==null?void 0:S.user_data)==null?void 0:E.id)||"");let p=!!window.__figmaDesktop;l.append("clientType",p?"desktop":"web"),l.append("clientUrl",document.URL),l.append("commitHash",((O=window.INITIAL_OPTIONS)==null?void 0:O.release_manifest_git_commit)||"missing");let T=((N=window.INITIAL_OPTIONS)==null?void 0:N.livegraph_preload_views)||{};l.append("preload",JSON.stringify(T));let P=$(I,l.toString());window.LGEarlyWS=new L(P,void 0,()=>{window.LGEarlyWS=void 0})}if(e&&(e.initialBgColor=j(),e.connectionType="initial-load",e.forceViewOnly=!1,(((m=window.INITIAL_OPTIONS)==null?void 0:m.cluster_name)==="staging"||((g=window.INITIAL_OPTIONS)==null?void 0:g.cluster_name)==="local")&&((v=W())!=null&&v.getItem("force-vscode"))?e.forceViewOnly=!0:e.forceViewOnly=(window==null?void 0:window.location.ancestorOrigins)&&[...window.location.ancestorOrigins].some(I=>I.startsWith("vscode-webview://"))),Z(f!==!1,e),!o&&!/FigmaMobile-Android/.test(navigator.userAgent)&&((e==null?void 0:e.role)==="editor"||(e==null?void 0:e.role)==="viewerWithCpp"||(e==null?void 0:e.role)==="prototype")){let I=(e==null?void 0:e.role)==="prototype"?Fig.prototypeLibURLs:Fig.fullscreenURLs,l=fetch(I["compiled_wasm.wasm"]);l.catch(T=>console.error(`Fetching compiled_wasm.wasm failed: ${T}`));let p=ee(I["compiled_wasm.js"]);window.FULLSCREEN_PRELOADS={wasm:l,js:p}}})();
+/*! For license information please see early.min.js.LEGAL.txt */
+
+//# debugId=09efa168-a928-5332-a79d-b4ebd825f552
+
+//# sourceMappingURL=https://admin.figma.com/admin/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/js/early.min.js.map
+  </script>
+
+
+
+    <meta name="google" content="notranslate">
+    <meta name="slack-app-id" content="A01N2QYSA81">
+
+    <title>Footfrenzy- Shoe E-commerce App&nbsp;| Figma Community</title>
+
+    <style type="text/css">
+
+  /* This should be kept in sync with the $gridTileMinWidth CSS variable */
+  :root {
+    --file-grid-tile-min-width: 272px;
+  }
+
+  #filebrowser-loading-page {
+    opacity: 1;
+    -webkit-transition: opacity .2s ease-in-out;
+  }
+
+  .filebrowser-loading-page-layout {
+    display: flex;
+    flex-wrap: wrap;
+
+    /* Make sure the loading page is flush with the edges of the page so
+       our layout isnt affected by browser default margins/paddings */
+    position: absolute;
+    top: 48px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--color-bg, var(--fallback-color-bg, white));
+  }
+
+  #loading-content-pane {
+    opacity: 1;
+    -webkit-transition: opacity .4s ease-in-out;
+  }
+
+  #filebrowser-loading-page.fadeOut {
+    opacity: 0;
+  }
+
+  #filebrowser-loading-page.hidden {
+    display: none;
+    opacity: 0;
+  }
+
+  .filebrowser-loading-page .file-grid.create-file-grid {
+    margin: 24px 0px;
+    grid-gap: 32px;
+    background-color: var(--color-bg, white);
+  }
+
+  /* HAX: see loading-page-container in loading_spinner.tsx */
+  #loading-page-container .create-file-grid {
+    display: none;
+    background-color: var(--color-bg, white);
+  }
+  #loading-page-container .sort-dropdown {
+    margin-top: 0px;
+  }
+
+ /*
+  * HAX: The sidebar is cloned and used independently outside of this
+  * page so any styles like `.filebrowser-loading-page .thing` applied
+  * to sidebar sub-elements also need a selector like
+  * `.filebrowser-loading-sidebar .thing` so that they work outside of
+  * this page too.
+  */
+  .filebrowser-loading-page .row,
+  .filebrowser-loading-sidebar .row {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    border-radius: 3px;
+    height: 16px;
+  }
+
+  .filebrowser-loading-page .circle,
+  .filebrowser-loading-sidebar .circle {
+    border-radius: 3px;
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 16px;
+    height: 16px;
+  }
+
+  .filebrowser-loading-page .row .circle,
+  .filebrowser-loading-sidebar .row .circle {
+    position: relative;
+    top: -1px;
+    left: -35px;
+  }
+
+  .filebrowser-loading-sidebar {
+    flex: 0 0 240px;
+    width: 240px;
+    background-color: var(--color-bg, white);
+    padding-top: 16px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filebrowser-loading-page .navbar {
+    height: 48px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: var(--color-bg-toolbar, #2C2C2C);
+    z-index: 1;
+  }
+
+  .filebrowser-loading-sidebar .row {
+    width: 85px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    margin-left: 48px;
+  }
+
+  .filebrowser-loading-sidebar .row .circle {
+    position: relative;
+    top: -1px;
+    left: -35px;
+  }
+
+  .filebrowser-loading-page .divider,
+  .filebrowser-loading-sidebar .divider {
+    height: 1px;
+    background-color: var(--color-border, rgba(0, 0, 0, 0.1));
+    margin-top: 8px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .filebrowser-loading-sidebar .row:nth-child(7) { width: 40px; }
+  .filebrowser-loading-sidebar .row:nth-child(8) { width: 58px; }
+
+  .filebrowser-loading-sidebar .row:nth-last-child(1) { opacity: 0.4; width: 65px; }
+  .filebrowser-loading-sidebar .row:nth-last-child(2) { opacity: 0.4; width: 65px; }
+  .filebrowser-loading-sidebar .row:nth-last-child(3) { opacity: 0.8; width: 46px; }
+
+  .filebrowser-loading-page .page {
+    flex: 1 1;
+    box-sizing: border-box;
+    border-left: 1px var(--color-border, #e5e5e5) solid;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filebrowser-loading-page .toolbar {
+    border-bottom: 1px var(--color-border, #e5e5e5) solid;
+    height: 48px;
+  }
+
+  .filebrowser-loading-page .toolbar .item {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    border-radius: 3px;
+    width: 85px;
+    height: 16px;
+    margin-left: 32px;
+    margin-top: 16px;
+  }
+
+  .filebrowser-loading-page .columns {
+    flex: 1 1;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 32px;
+  }
+
+  @media (max-width: 849px) {
+    .filebrowser-loading-page .columns {
+      flex-direction: column;
+    }
+
+    .filebrowser-loading-page .right-column {
+      padding-left: 32px;
+    }
+
+    .filebrowser-loading-page .public-header + .columns {
+      flex-direction: column-reverse;
+    }
+  }
+
+  .filebrowser-loading-page .content {
+    flex: 1 1;
+  }
+
+  .filebrowser-loading-page .sort-dropdown {
+    border-radius: 3px;
+    width: 86px;
+    padding: 16px 32px 32px 32px;
+  }
+
+  .filebrowser-loading-page .create-file-tile {
+    background-color: var(--color-bg-secondary, white);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    height: 72px;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 832px) {
+    .filebrowser-loading-page .create-file-tile {
+      height: 48px;
+    }
+  }
+
+  @media (max-width: 645px) {
+    .filebrowser-loading-page .create-file-tile, .filebrowser-loading-page .sort-dropdown {
+      display: none;
+    }
+  }
+
+  .filebrowser-loading-page .create-file-tile .icon {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    border-radius: 2px;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 24px;
+    width: 24px;
+  }
+
+  .filebrowser-loading-page .create-file-tile .label {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 132px;
+    height: 16px;
+    border-radius: 3px;
+  }
+
+  @media (max-width: 1440px) {
+   .filebrowser-loading-page .create-file-tile:nth-last-child(1) {
+     display: none;
+   }
+  }
+
+  .filebrowser-loading-page .tile {
+    height: 56px;
+    padding-top: 60%;
+    position: relative;
+  }
+
+  .filebrowser-loading-page .tile .inner {
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
+    left: 2px;
+    right: 2px;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    background-color: var(--color-bg-secondary, #f0f0f0);
+  }
+
+  .filebrowser-loading-page .tile .inner .lower {
+    height: 56px;
+    background-color: var(--color-bg, white);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-radius: 0 0 6px 6px;
+  }
+
+  .filebrowser-loading-page .public-grid {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--file-grid-tile-min-width), 1fr));
+    grid-gap: 32px;
+    padding-left: 32px;
+  }
+
+  @media (max-width: 1023px) {
+    .filebrowser-loading-page .public-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .filebrowser-loading-page .public-grid .tile {
+    height: 56px;
+    padding-top: 60%;
+  }
+
+  .filebrowser-loading-page .public-grid .tile:nth-child(6) { opacity: .8; }
+  .filebrowser-loading-page .public-grid .tile:nth-child(7) { opacity: .4; }
+
+  .filebrowser-loading-page .file-grid {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--file-grid-tile-min-width), 1fr));
+    grid-gap: 32px;
+    padding-left: 32px;
+  }
+
+  .filebrowser-loading-page .file-grid .tile:nth-child(6) { opacity: .8; }
+  .filebrowser-loading-page .file-grid .tile:nth-child(7) { opacity: .4; }
+
+  .filebrowser-loading-page .team-grid {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(264px, 1fr));
+    grid-gap: 32px 32px;
+    padding: 32px 0 0 32px;
+    align-content: start;
+  }
+
+  .filebrowser-loading-page .team-tile {
+    border: 1px solid var(--color-border, rgba(0, 0, 0, .1));
+    border-radius: 6px;
+    position: relative;
+    padding: 16px;
+  }
+
+  .filebrowser-loading-page .team-grid .team-tile:nth-child(6) { opacity: .8; }
+  .filebrowser-loading-page .team-grid .team-tile:nth-child(7) { opacity: .4; }
+
+  .filebrowser-loading-page .team-tile .row {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+
+  .filebrowser-loading-page .team-tile .row:nth-child(1) {
+    width: 32px;
+    height: 32px;
+  }
+
+  .filebrowser-loading-page .team-tile .row:nth-child(2) {
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    top: 17px;
+    right: 16px;
+    margin-top: 0;
+  }
+
+  .filebrowser-loading-page .team-tile .row:nth-child(3) {
+    width: 120px;
+    margin-top: 20px;
+  }
+  .filebrowser-loading-page .team-tile .row:nth-child(4) {
+    width: 232px;
+    margin-top: 12px;
+  }
+  .filebrowser-loading-page .team-tile .row:nth-child(5) {
+    width: 174px;
+    margin-top: 8px;
+  }
+
+  .filebrowser-loading-page .team-tile .circles {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .filebrowser-loading-page .team-tile .circle {
+    top: 0;
+    left: 0;
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    margin-top: 22px;
+  }
+
+  .filebrowser-loading-page .public-header {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 100%;
+    height: 240px;
+    margin-bottom: 80px;
+  }
+
+  .filebrowser-loading-page .profile-header {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 100%;
+    height: 64px;
+  }
+
+  .filebrowser-loading-page .profile-grid {
+    padding: 32px;
+    display: grid;
+    grid-template-columns: 1fr 24px 1fr .75fr;
+    align-items: end;
+  }
+
+  .filebrowser-loading-page .profile-grid .row {
+    margin-top: 24px;
+  }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(4n+1) { width: 148px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(4n+3) { width: 56px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(4n+4) { width: 99px; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(1) { width: 61px; margin-top: 0; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(5) { width: 61px; margin-top: 32px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(7) { width: 69px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(8) { width: 51px; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(9) { margin-top: 36px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(11) { width: 69px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(12) { width: 72px; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(25),
+  .filebrowser-loading-page .profile-grid div:nth-child(27),
+  .filebrowser-loading-page .profile-grid div:nth-child(28) { opacity: .8; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(29),
+  .filebrowser-loading-page .profile-grid div:nth-child(31),
+  .filebrowser-loading-page .profile-grid div:nth-child(32) { opacity: .4; }
+
+  @media(max-width: 1000px) {
+    .filebrowser-loading-page .profile-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .filebrowser-loading-page .profile-grid div:nth-child(5),
+    .filebrowser-loading-page .profile-grid div:nth-child(6),
+    .filebrowser-loading-page .profile-grid div:nth-child(7),
+    .filebrowser-loading-page .profile-grid div:nth-child(8),
+    .filebrowser-loading-page .profile-grid div:nth-child(4n+2),
+    .filebrowser-loading-page .profile-grid div:nth-child(4n+3),
+    .filebrowser-loading-page .profile-grid div:nth-child(4n+4) { display: none; }
+  }
+
+  .filebrowser-loading-page .project-grid {
+    padding-left: 32px;
+    display: grid;
+    grid-row-gap: 22px;
+  }
+
+  .filebrowser-loading-page .project-grid .card {
+    border: 1px solid var(--color-border, rgba(0, 0, 0, .1));
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 178px;
+    display: flex;
+  }
+
+  .filebrowser-loading-page .project-grid .card:nth-child(3) { opacity: .8; }
+  .filebrowser-loading-page .project-grid .card:nth-child(4) { opacity: .4; }
+
+  .filebrowser-loading-page .project-grid .card .left {
+    width: 196px;
+    margin: 16px;
+  }
+
+  .filebrowser-loading-page .project-grid .card .right {
+    flex: 1 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+    margin: 16px 0;
+  }
+
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(1) { width: 107px; }
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(2) { width: 164px; margin-top: 12px; }
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(3) { width: 145px; margin-top: 8px; }
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(4) { width: 158px; margin-top: 8px; }
+
+  .filebrowser-loading-page .project-grid .card .right .row {
+    height: 100%;
+    flex: 1 1 196px;
+    margin-right: 16px;
+    border-radius: 6px;
+  }
+
+  .filebrowser-loading-page .right-column {
+    flex: 0 0 304px;
+    margin-right: 16px;
+    margin-top: 16px;
+    box-sizing: border-box;
+    padding-left: 32px;
+  }
+
+  .filebrowser-loading-page .right-column .row:nth-child(1) {
+    margin-top: 16px;
+    width: 120px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(2) {
+    margin-top: 18px;
+    width: 272px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(3) {
+    margin-top: 8px;
+    width: 248px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(4) {
+    margin-top: 8px;
+    width: 272px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(5) {
+    margin-top: 8px;
+    width: 256px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(6) {
+    margin-top: 8px;
+    width: 200px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(7) {
+    margin-top: 35px;
+    width: 88px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(8) {
+    margin-top: 22px;
+    margin-left: 51px;
+    width: 88px;
+    opacity: .8;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(9) {
+    margin-top: 18px;
+    margin-left: 51px;
+    width: 88px;
+    opacity: .4;
+  }
+
+  .filebrowser-loading-page .public-left-column {
+    padding: 0 0 32px 32px;
+    width: 320px;
+  }
+
+  .filebrowser-loading-page .public-left-column .row {
+    margin-top: 8px;
+  }
+
+  .filebrowser-loading-page .public-left-column .row:nth-child(1) {
+    width: 120px;
+    margin-top: 0;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(2) {
+    width: 272px;
+    margin-top: 18px;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(3) {
+    width: 248px;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(4) {
+    width: 272px;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(5) {
+    width: 256px;
+    opacity: .8;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(6) {
+    width: 200px;
+    opacity: .4;
+  }
+
+  /*
+  Note: Make sure any changes here are also duplicated in the fullscreen progress bar
+  (.progressBar in progress_bar.css)
+  */
+  #filebrowser-loading-progress-bar {
+    height: 5px;
+      background: var(--color-bg-brand, #0D99FF);
+    position: absolute;
+    left: 0;
+    animation: filebrowserloadingProgressBar 10s cubic-bezier(.08,.8,.1,1) forwards;
+  }
+
+  @keyframes filebrowserloadingProgressBar {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+
+  @media (max-width: 645px) {
+    .filebrowser-loading-sidebar {
+      display: none;
+    }
+
+    .filebrowser-loading-page .page {
+      margin-left: 0;
+      width: 100%;
+    }
+
+    .filebrowser-loading-page .public-header {
+      height: 120px;
+    }
+
+    .filebrowser-loading-page .file-grid {
+      grid-template-columns: 1fr;
+      max-width: 400px;
+      margin: 0 auto;
+      align-self: center;
+    }
+  }
+
+</style>
+
+
+
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta property="og:title" content="Footfrenzy- Shoe E-commerce App | Figma Community">
+    <meta property="og:site_name" content="Figma">
+
+    
+
+
+<link rel="icon" sizes="192x192" href="https://static.figma.com/uploads/1a667ef53b7c4837049399d0593ffca39e0bec9e">
+<link rel="icon" sizes="128x128" href="https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099">
+
+<link rel="icon" type="image/png" href="https://static.figma.com/app/icon/1/favicon.png">
+<!--[if IE]><link rel="shortcut icon" href="https://static.figma.com/app/icon/1/favicon.ico" type="image/vnd.microsoft.icon" /><![endif]-->
+<link rel="icon" sizes="any" type="image/svg+xml" href="https://static.figma.com/app/icon/1/favicon.svg">
+
+<link rel="apple-touch-icon" sizes="76x76" href="https://static.figma.com/app/icon/1/touch-76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://static.figma.com/app/icon/1/touch-120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://static.figma.com/app/icon/1/touch-152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="https://static.figma.com/app/icon/1/touch-167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://static.figma.com/app/icon/1/touch-180.png">
+
+<link rel="manifest" href="https://static.figma.com/app/manifest.json">
+
+
+        <link rel="preload" href="https://static.figma.com/webfont/1/Inter-Regular.woff2?v=3.10" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/Inter-Italic.woff2?v=3.10" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/Inter-Medium.woff2?v=3.10" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/Inter-MediumItalic.woff2?v=3.10" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/Inter-SemiBold.woff2?v=3.10" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/Inter-SemiBoldItalic.woff2?v=3.10" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/DSEG7Classic-Italic-Custom2.woff2" as="font" crossorigin="anonymous">
+
+      <link href="./Footfrenzy_files/community.min.css.br" rel="stylesheet">
+
+      <link rel="preload" as="fetch" id="englishDictionaryUrl" href="https://www.figma.com/esbuild-artifacts/61e95f615e21b45bd9bf3f49656b2c798fcc1773/intl/community.en.json.br" crossorigin="anonymous">
+  <style data-emotion="css" data-s=""></style></head>
+  <body class="">
+      <div style="position: fixed; top: -1000px; left: -1000px;">
+        <div aria-hidden="true" id="font-ui-400-normal">a</div>
+        <div aria-hidden="true" id="font-ui-400-italic">a</div>
+        <div aria-hidden="true" id="font-ui-500-normal">a</div>
+        <div aria-hidden="true" id="font-ui-500-italic">a</div>
+        <div aria-hidden="true" id="font-ui-600-normal">a</div>
+        <div aria-hidden="true" id="font-ui-600-italic">a</div>
+
+        <div aria-hidden="true" id="font-ui-400-normal-white">a</div>
+      </div>
+
+    <div id="react-page"><div data-preferred-theme="light" style="color-scheme: light;"><div data-testid="statsig-comp-without-redux"><div data-testid="community-app" class="community_app--communityApp--JBVA0"><div class="community_logged_out_nav--nav--Td2RG"><div class="cx_absolute--c8Br6 cx_colorBg--qJagP cx_zIndexMinus1--APem- cx_wFull--QwHl9 cx_h48--OGZ4O cx_bSolid--e8a2- cx_colorBorder--vB66g cx_bb1--wLmz2"></div><div class="cx_flex--uQqQ4 cx_flexRow--MkU5a cx_mr4--RBvoe"><div class="community_logged_out_nav--logoLinkWrapper--IGOwO"><a href="https://www.figma.com/"><svg class="svg" width="38" height="57" viewBox="0 0 38 57" xmlns="http://www.w3.org/2000/svg"><path d="M19 28.5c0-5.247 4.253-9.5 9.5-9.5 5.247 0 9.5 4.253 9.5 9.5 0 5.247-4.253 9.5-9.5 9.5-5.247 0-9.5-4.253-9.5-9.5z" fill-rule="nonzero" fill-opacity="1" fill="#1abcfe" stroke="none"></path><path d="M0 47.5C0 42.253 4.253 38 9.5 38H19v9.5c0 5.247-4.253 9.5-9.5 9.5C4.253 57 0 52.747 0 47.5z" fill-rule="nonzero" fill-opacity="1" fill="#0acf83" stroke="none"></path><path d="M19 0v19h9.5c5.247 0 9.5-4.253 9.5-9.5C38 4.253 33.747 0 28.5 0H19z" fill-rule="nonzero" fill-opacity="1" fill="#ff7262" stroke="none"></path><path d="M0 9.5C0 14.747 4.253 19 9.5 19H19V0H9.5C4.253 0 0 4.253 0 9.5z" fill-rule="nonzero" fill-opacity="1" fill="#f24e1e" stroke="none"></path><path d="M0 28.5C0 33.747 4.253 38 9.5 38H19V19H9.5C4.253 19 0 23.253 0 28.5z" fill-rule="nonzero" fill-opacity="1" fill="#a259ff" stroke="none"></path></svg></a></div><a href="https://www.figma.com/community" class="community_logged_out_nav--navCommunityText--7OdGN text--fontPos13--5OfL8 text--_fontBase--VaHfk"><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="M9.018 16.5c.219 3.104 2.46 5.649 5.415 6.324-.81-1.325-1.365-3.646-1.427-6.324H9.018zM16 24c-4.418 0-8-3.582-8-8 0-4.418 3.582-8 8-8 4.418 0 8 3.582 8 8 0 4.418-3.582 8-8 8zM14.434 9.176c-2.955.675-5.197 3.22-5.416 6.324h3.988c.062-2.678.618-5 1.428-6.324zm3.133 0c2.954.675 5.196 3.22 5.415 6.324h-3.988c-.062-2.678-.618-5-1.427-6.324zm5.415 7.324h-3.988c-.062 2.678-.618 5-1.427 6.324 2.954-.675 5.196-3.22 5.415-6.324zm-5.797 4.806c.452-1.206.763-2.891.809-4.806h-3.988c.046 1.915.357 3.6.809 4.806.247.658.517 1.121.766 1.402.25.282.394.292.419.292.026 0 .17-.01.42-.292.248-.28.518-.744.765-1.402zm-2.37-10.612c-.452 1.205-.762 2.891-.809 4.806h3.988c-.046-1.915-.357-3.6-.809-4.806-.247-.658-.517-1.121-.765-1.402C16.17 9.01 16.024 9 16 9c-.025 0-.17.01-.42.292-.248.28-.518.744-.765 1.402z"></path></svg></span>Community</a></div><div class="community_logged_out_nav--navbarCategorySearchContainer--NlAEM"><div class="cx_hFull--PdZbt cx_flexGrow1--tkv-J cx_flexShrink1--kKX6Z cx_flexBasis0--iLWvc"></div><div data-testid="nav-category-selector" class="cx_flex--uQqQ4 cx_flexRow--MkU5a cx_justifyCenter--8nP9s cx_flexBasisAuto--cLgBp"><div><div class="dropdown--dropdown--eOf82 text--fontPos14--QJNQC text--_fontBase--VaHfk" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><a class="cx_colorText--Io2mX cx_noWrap--Mg1fM" href="https://www.figma.com/community/category/libraries"><div class="nav_category_selector--navCategorySelectorText--V8hXw text--fontPos13--5OfL8 text--_fontBase--VaHfk">Libraries</div></a><div class="dropdown--dropdownContents--BnmiS" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div><div><div class="dropdown--dropdown--eOf82 text--fontPos14--QJNQC text--_fontBase--VaHfk" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><a class="cx_colorText--Io2mX cx_noWrap--Mg1fM" href="https://www.figma.com/community/category/design-templates"><div class="nav_category_selector--navCategorySelectorText--V8hXw text--fontPos13--5OfL8 text--_fontBase--VaHfk">Design templates</div></a><div class="dropdown--dropdownContents--BnmiS" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div><div><div class="dropdown--dropdown--eOf82 text--fontPos14--QJNQC text--_fontBase--VaHfk" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><a class="cx_colorText--Io2mX cx_noWrap--Mg1fM" href="https://www.figma.com/community/category/whiteboarding"><div class="nav_category_selector--navCategorySelectorText--V8hXw text--fontPos13--5OfL8 text--_fontBase--VaHfk">Whiteboarding</div></a><div class="dropdown--dropdownContents--BnmiS" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div><div><div class="dropdown--dropdown--eOf82 text--fontPos14--QJNQC text--_fontBase--VaHfk" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><div class="nav_category_selector--navCategorySelectorText--V8hXw text--fontPos13--5OfL8 text--_fontBase--VaHfk">More</div><div class="dropdown--dropdownContents--BnmiS" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div></div><div class="cx_flexGrow1--tkv-J cx_flexShrink1--kKX6Z cx_flexBasis0--iLWvc cx_hFull--PdZbt cx_flex--uQqQ4 cx_justifyEnd--bBAFc"><div><div class="community_logged_out_nav--searchInputDropdownWrapper--2dVcA dropdown--dropdown--eOf82 text--fontPos14--QJNQC text--_fontBase--VaHfk" tabindex="0" data-disable-repositioning="true"><div class="cx_flex--uQqQ4 cx_flexRow--MkU5a cx_justifyEnd--bBAFc"><div class="cx_flex--uQqQ4 cx_alignCenter--FRuGU" style="min-width: 0px;"><div class="cx_wFull--QwHl9 cx_flex--uQqQ4 cx_justifyEnd--bBAFc" role="button" tabindex="0"><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="M19.103 15.052c0 1.961-1.59 3.551-3.551 3.551-1.962 0-3.552-1.59-3.552-3.551 0-1.962 1.59-3.552 3.552-3.552 1.961 0 3.551 1.59 3.551 3.552zm-.706 3.553c-.78.625-1.768.998-2.845.998-2.514 0-4.552-2.037-4.552-4.551 0-2.514 2.038-4.552 4.552-4.552 2.514 0 4.551 2.038 4.551 4.552 0 1.077-.373 2.066-.999 2.846l3.25 3.249-.708.707-3.249-3.25z"></path></svg></span></div></div></div><button class="dropdown--mobileBackground--yEcc9"></button><div class="dropdown--dropdownContents--BnmiS" data-v-position="below" data-h-position=""></div></div></div></div></div><div class="community_logged_out_nav--authButtonContainer--jQ6lW"><button class="community_logged_out_nav--logInButton--SdFho community_logged_out_nav--_button--vruIK text--fontPos11--rO47d text--_fontBase--VaHfk" type="button">Log in</button><button class="community_logged_out_nav--signUpButton--XnnJ- text--fontPos11--rO47d text--_fontBase--VaHfk community_logged_out_nav--_button--vruIK" type="button">Sign up</button></div></div><div class="resource_page--resourcePage--dUTfc text--fontPos14--QJNQC text--_fontBase--VaHfk"><div class="two_column_resource_page--autoLayoutContainer---f0Vv"><div class="css-18cpayt"><div class="two_column_resource_page--leftSideRedesign--yyJyI"><div class="cx_relative--zQwMt"><div class="basic_resource_header--headerContainer--oo5Ij"><div class="basic_resource_header--authors--ybCw4 text--fontPos13--5OfL8 text--_fontBase--VaHfk"><div class="resource_page_header--resourceHeaderAvatarWrapper--W7Z0D" data-testid="resource-header-avatar-0"><a href="https://www.figma.com/@3a34b129_f5dc_4"><div data-layer="type=Image,size=Large" class="css-n3y73m resource_page_header--resourceHeaderAvatar--MQ4Kq"><div class="css-grg6tf fg-absolute"></div></div></a><div class="resource_page_header--resourceHeaderFigmaPartnerBadge--DO2Zr" style="z-index: 3;"></div></div><span class="resource_page_header--authorHiddenOverflow--gJwra"><div class="resource_header_creators--authorLabelContainer--1eVG5 text--fontPos13--5OfL8 text--_fontBase--VaHfk resource_header_creators--authorContainerSmallWidth--Qviwx"><a class="resource_header_creators--authorNameOverflow--0KrRW" href="https://www.figma.com/@3a34b129_f5dc_4" target="_self">Musab Alam</a></div></span></div><div class="basic_resource_header--title_badge_container--cZHGt"><div class="basic_resource_header--title--nCSUE text--fontPos24--VFCur text--_fontBase--VaHfk ellipsis--ellipsisAfter3Lines--eBD0M ellipsis--_ellipsisAfterNLines--5f-ox"><h1>Footfrenzy- Shoe E-commerce App</h1></div><div></div></div><div class="basic_resource_header--stats--bKtpb text--fontPos13--5OfL8 text--_fontBase--VaHfk" data-testid="resource-header-stats"><div>Design file</div><div class="basic_resource_header--bulletSeparator--dhHmI text--fontPos10--uqCNV text--_fontBase--VaHfk">•</div><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#000" fill-rule="evenodd" d="m8 5.105-.565-.475c-1.087-.916-2.699-.826-3.678.204-.984 1.037-.984 2.664 0 3.7L8 13l4.242-4.466c.985-1.036.985-2.663 0-3.7-.978-1.03-2.59-1.12-3.677-.204L8 5.105Zm0 6.443 3.517-3.702c.619-.651.619-1.672 0-2.323-.614-.647-1.626-.703-2.308-.128l-1.21 1.018-1.208-1.018c-.682-.575-1.694-.519-2.309.128-.618.65-.618 1.672 0 2.323L8 11.547Z" clip-rule="evenodd"></path></svg></span><div class="basic_resource_header--numberOfUsers--opcHG">2</div><div class="basic_resource_header--bulletSeparator--dhHmI text--fontPos10--uqCNV text--_fontBase--VaHfk">•</div><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16"><path fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="none" d="M8 5c0 1.105-.895 2-2 2-1.105 0-2-.895-2-2 0-1.105.895-2 2-2 1.105 0 2 .895 2 2zm1 0c0 1.657-1.343 3-3 3-1.657 0-3-1.343-3-3 0-1.657 1.343-3 3-3 1.657 0 3 1.343 3 3zM5 9c-2.21 0-4 1.79-4 4h1c0-1.657 1.343-3 3-3h2c1.657 0 3 1.343 3 3h1c0-2.21-1.79-4-4-4H5z"></path></svg></span><div class="basic_resource_header--numberOfUsers--opcHG">241 users</div></div><div class="basic_resource_header--ctaContainer--zWYFy"><button class="cta_button--duplicateButtonContainerNoIcon--UvzxV cta_button--duplicateButtonContainer--9o2Gy cta_button--buttonBase--aj8VW text--fontNeg14--TmjQA text--_fontBase--VaHfk text--_negText--7Cnf0"><div class="cta_button--textIconContainer--vy0gn">Open in Figma</div></button></div></div></div></div><div class="two_column_resource_page--rightSideRedesignFallbackThumbnail--bsHuV two_column_resource_page--rightSideRedesign--zfl6h"><div class="two_column_resource_page--heroImageWrapper--CYXy7" role="button" tabindex="-1"><div class="two_column_resource_page--heroImage--v7zmW"><div class="two_column_resource_page--carouselImage--yyBsK"><img sizes="(min-width: 2048px) 50vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/3903025431/resized/160x96/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 160w, https://s3-alpha.figma.com/hub/file/3903025431/resized/800x480/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 800w, https://s3-alpha.figma.com/hub/file/3903025431/resized/1200x720/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 1200w, https://s3-alpha.figma.com/hub/file/3903025431/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 1600w" src="./Footfrenzy_files/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png" alt="Footfrenzy- Shoe E-commerce App preview" class="two_column_resource_page--hubFileTileFullInnerImage--Fjndh two_column_resource_page--hubFileTileInnerImage--p9LIV" loading="lazy"></div><div class="two_column_resource_page--carouselImageShadow--J2jPX"></div></div><div class="two_column_resource_page--heroImageFullScreenIcon--v5Lit"><span class="svg-container" style="fill: var(--color-icon-menu, var(--fallback-color-icon-menu));"><svg class="svg" title="full screen enter 32" aria-label="full screen enter 32" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="m18.354 14.354 3.185-3.186.461-.834V14h1V9h-5v1h3.596l-.753.45-3.197 3.196.708.708zm-4.708 3.292-3.185 3.186-.461.834V18H9v5h5v-1h-3.597l.754-.45 3.197-3.196-.708-.708z"></path></svg></span></div></div><div class="two_column_resource_page--scrollSentinel--Oxr-3"></div></div></div></div><div class=""><div class="meta_container--metaTabContainer--WTbCE"><button><div class="meta_container--metaTab--wVyRV text--fontPos14--QJNQC text--_fontBase--VaHfk meta_container--selectedMetaTab--IvSd3 meta_container--metaTab--wVyRV text--fontPos14--QJNQC text--_fontBase--VaHfk">About</div></button><button><div class="meta_container--metaTab--wVyRV text--fontPos14--QJNQC text--_fontBase--VaHfk">Comments <span class="meta_container--metaTabCommentCount--LBHKS">0</span></div></button></div><div class="meta_container--metaContainerDivider--YX3mz"><div class="meta_container--metaContainerDividerSpacer--1Qd7x"></div></div><div class="meta_container--tabbedMetaContainer--RHOaU meta_container--metaContainer--hXe-n"><div class="meta_container--leftSide--kVB7D" id="descriptionViewSection"><div class="truncated_description_view--description--2VqGe text--fontPos14--QJNQC text--_fontBase--VaHfk"><div><p>Hi GUIs!! 😎</p><p>This is my latest exploration for ''Shoe E-commerce APpDesign"</p><p>Feel free to provide your feedback and don't forget to ❤️</p><p>to support the shot.</p><p>Thank you!!</p><p><br></p><p>Every project starts with a good conversation.</p><p>💬<strong> Let's Chat! </strong></p><p>💌 I am open to new projects!&nbsp;</p><p>👋🏻<strong>musabalam22@gmail.com</strong></p><p><br></p><p><a href="https://www.linkedin.com/in/musab-alam-b193471b9/" rel="noreferrer noopener nofollow ugc"><strong>Linkedin </strong></a><strong>| </strong><a href="https://www.behance.net/museUX" rel="noreferrer noopener nofollow ugc"><strong>Behance </strong></a><strong>| </strong><a href="https://dribbble.com/museUX" rel="noreferrer noopener nofollow ugc"><strong>Dribbble</strong></a></p></div></div><h3 class="cx_font14--JnlZz cx_fontSemiBold--yntYr cx_mb16--iW5Vz">Preview</h3><div class="canvas_viewer--canvasViewerWrapper--4hJJs canvas_viewer--smallEmbed--p4ZSh" data-loaded="true"><div class="canvas_viewer--canvasViewer--CgOe6"><div class="canvas_viewer--hubFileLoadingCoverImage--fRLp3 canvas_viewer--resourceLoadingCoverImage--Fn69g"><div class="resource_tiles--hubFileThumbnailImage--hfRoW" style="background-color: rgb(207, 207, 208);"><img sizes="(min-width: 2048px) 50vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/3903025431/resized/160x96/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 160w, https://s3-alpha.figma.com/hub/file/3903025431/resized/800x480/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 800w, https://s3-alpha.figma.com/hub/file/3903025431/resized/1200x720/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 1200w, https://s3-alpha.figma.com/hub/file/3903025431/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png 1600w" src="./Footfrenzy_files/c8347cf5-b6d2-4bad-89b2-aa2fb2d7ef1e-cover.png" alt="Footfrenzy- Shoe E-commerce App preview" class="resource_tiles--hubFileTileFullInnerImage--hfk7U resource_tiles--hubFileTileInnerImage--dxC1c" loading="lazy"></div></div><div class="canvas_viewer--iframeWrapper--KuQb3"><iframe title="Community resource preview" src="./Footfrenzy_files/embed.html" allowfullscreen="" class="canvas_viewer--showIframe--SuZPy" style="width: 100%; height: 100%;"></iframe><svg aria-label="Open" class="canvas_viewer--fullscreenIcon--bp0WI" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M14.54 4.168l-3.187 3.186-.708-.708 3.197-3.197.753-.449H11V2h5v5h-1V3.334l-.46.834zM3.46 13.832l3.186-3.186.708.708-3.198 3.197-.752.449H7v1H2v-5h1v3.666l.46-.834z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></div><div role="button" tabindex="0" class="canvas_viewer--iframeBackdrop--6B3uw"></div></div></div><hr class="cx_mt24--GkeRY cx_mb24--1B7AJ"><div class="related_content--relatedContent--z-gPl"><div class="related_content--relatedContentHeader--fJa97 text--fontPos14--QJNQC text--_fontBase--VaHfk"><div class="related_content--relatedContentTitle--BNqeg">More by this creator</div></div><div class="related_content--relatedContentTilesContainer--D1da-"><a href="https://www.figma.com/community/file/1330235731685652224/music-player-app-prototype" class="related_content--relatedContentTile--qljbs"><div class="related_content--relatedContentTileImageThumbnailIsSet--cTKWD related_content--relatedContentTileImage--ht1UK" style="background-color: rgb(30, 30, 30);"><div class="resource_tiles--hubFileThumbnailImage--hfRoW"><img sizes="(min-width: 736px) 50vw, (min-width: 1088px) 33vw, (min-width: 1440px) 25vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/4996131234/resized/160x96/75864bc6-e59d-4f99-9b20-525da1691f3f-cover.png 160w, https://s3-alpha.figma.com/hub/file/4996131234/resized/800x480/75864bc6-e59d-4f99-9b20-525da1691f3f-cover.png 800w, https://s3-alpha.figma.com/hub/file/4996131234/resized/1200x720/75864bc6-e59d-4f99-9b20-525da1691f3f-cover.png 1200w, https://s3-alpha.figma.com/hub/file/4996131234/75864bc6-e59d-4f99-9b20-525da1691f3f-cover.png 1600w" src="./Footfrenzy_files/75864bc6-e59d-4f99-9b20-525da1691f3f-cover.png" alt="Music Player App Prototype" class="resource_tiles--hubFileTileFullInnerImage--hfk7U resource_tiles--hubFileTileInnerImage--dxC1c" loading="lazy"></div><span class=" editor_type_badge--editorBadge16--qQ640" data-tooltip-type="text" data-tooltip="For Figma" data-testid="editor-type-badge-figma"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#0d99ff" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M0 4c0-2.21 1.79-4 4-4h8c2.21 0 4 1.79 4 4v8c0 2.21-1.79 4-4 4H4c-2.21 0-4-1.79-4-4V4z"></path><path fill="#fff" fill-opacity="1" fill-rule="evenodd" stroke="none" d="m8.723 5.467-.01-.002L4.957 4.39 7.74 7.175c.1-.036.207-.055.319-.055.524 0 .948.425.948.95 0 .525-.424.951-.948.951-.524 0-.949-.426-.949-.95 0-.118.022-.23.06-.335L4.392 4.958l1.03 3.6.008.03.006.029c.252 1.222 1.333 2.14 2.623 2.14.294 0 .576-.048.84-.135l.468-.155.349.35 1.048 1.05 1.106-1.108-1.063-1.065-.343-.344.147-.463c.082-.257.126-.53.126-.817 0-1.25-.852-2.301-2.005-2.6l-.01-.003zM13 10.76l-1.67 1.675-.566.566-.565-.566-1.05-1.053c-.343.114-.71.175-1.09.175-1.679 0-3.08-1.192-3.406-2.778L3.259 3.906 3 3l.906.259 5.027 1.436c1.498.389 2.604 1.753 2.604 3.375 0 .37-.057.725-.163 1.06L13 10.76z"></path></svg></span></div><div class="related_content--relatedContentTileTitle--Ln3yk text--fontPos13--5OfL8 text--_fontBase--VaHfk">Music Player App Prototype</div></a><a href="https://www.figma.com/community/file/1329153990314637023/stylehaus-furniture-app" class="related_content--relatedContentTile--qljbs"><div class="related_content--relatedContentTileImageThumbnailIsSet--cTKWD related_content--relatedContentTileImage--ht1UK" style="background-color: rgb(30, 30, 30);"><div class="resource_tiles--hubFileThumbnailImage--hfRoW"><img sizes="(min-width: 736px) 50vw, (min-width: 1088px) 33vw, (min-width: 1440px) 25vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/4973023317/resized/160x96/736c68d3-e707-457e-8861-cfd4f7245c41-cover.png 160w, https://s3-alpha.figma.com/hub/file/4973023317/resized/800x480/736c68d3-e707-457e-8861-cfd4f7245c41-cover.png 800w, https://s3-alpha.figma.com/hub/file/4973023317/resized/1200x720/736c68d3-e707-457e-8861-cfd4f7245c41-cover.png 1200w, https://s3-alpha.figma.com/hub/file/4973023317/736c68d3-e707-457e-8861-cfd4f7245c41-cover.png 1600w" src="./Footfrenzy_files/736c68d3-e707-457e-8861-cfd4f7245c41-cover.png" alt="StyleHaus - Furniture App" class="resource_tiles--hubFileTileFullInnerImage--hfk7U resource_tiles--hubFileTileInnerImage--dxC1c" loading="lazy"></div><span class=" editor_type_badge--editorBadge16--qQ640" data-tooltip-type="text" data-tooltip="For Figma" data-testid="editor-type-badge-figma"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#0d99ff" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M0 4c0-2.21 1.79-4 4-4h8c2.21 0 4 1.79 4 4v8c0 2.21-1.79 4-4 4H4c-2.21 0-4-1.79-4-4V4z"></path><path fill="#fff" fill-opacity="1" fill-rule="evenodd" stroke="none" d="m8.723 5.467-.01-.002L4.957 4.39 7.74 7.175c.1-.036.207-.055.319-.055.524 0 .948.425.948.95 0 .525-.424.951-.948.951-.524 0-.949-.426-.949-.95 0-.118.022-.23.06-.335L4.392 4.958l1.03 3.6.008.03.006.029c.252 1.222 1.333 2.14 2.623 2.14.294 0 .576-.048.84-.135l.468-.155.349.35 1.048 1.05 1.106-1.108-1.063-1.065-.343-.344.147-.463c.082-.257.126-.53.126-.817 0-1.25-.852-2.301-2.005-2.6l-.01-.003zM13 10.76l-1.67 1.675-.566.566-.565-.566-1.05-1.053c-.343.114-.71.175-1.09.175-1.679 0-3.08-1.192-3.406-2.778L3.259 3.906 3 3l.906.259 5.027 1.436c1.498.389 2.604 1.753 2.604 3.375 0 .37-.057.725-.163 1.06L13 10.76z"></path></svg></span></div><div class="related_content--relatedContentTileTitle--Ln3yk text--fontPos13--5OfL8 text--_fontBase--VaHfk">StyleHaus - Furniture App</div></a><a href="https://www.figma.com/community/file/1328036275196656502/harmony-club-music-player-app" class="related_content--relatedContentTile--qljbs"><div class="related_content--relatedContentTileImageThumbnailIsSet--cTKWD related_content--relatedContentTileImage--ht1UK" style="background-color: rgb(30, 30, 30);"><div class="resource_tiles--hubFileThumbnailImage--hfRoW"><img sizes="(min-width: 736px) 50vw, (min-width: 1088px) 33vw, (min-width: 1440px) 25vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/4956035135/resized/160x96/0793ea3c-6e2e-4f9c-8e88-8c439e976eb8-cover.png 160w, https://s3-alpha.figma.com/hub/file/4956035135/resized/800x480/0793ea3c-6e2e-4f9c-8e88-8c439e976eb8-cover.png 800w, https://s3-alpha.figma.com/hub/file/4956035135/resized/1200x720/0793ea3c-6e2e-4f9c-8e88-8c439e976eb8-cover.png 1200w, https://s3-alpha.figma.com/hub/file/4956035135/0793ea3c-6e2e-4f9c-8e88-8c439e976eb8-cover.png 1600w" src="./Footfrenzy_files/0793ea3c-6e2e-4f9c-8e88-8c439e976eb8-cover.png" alt="Harmony Club - Music Player App" class="resource_tiles--hubFileTileFullInnerImage--hfk7U resource_tiles--hubFileTileInnerImage--dxC1c" loading="lazy"></div><span class=" editor_type_badge--editorBadge16--qQ640" data-tooltip-type="text" data-tooltip="For Figma" data-testid="editor-type-badge-figma"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#0d99ff" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M0 4c0-2.21 1.79-4 4-4h8c2.21 0 4 1.79 4 4v8c0 2.21-1.79 4-4 4H4c-2.21 0-4-1.79-4-4V4z"></path><path fill="#fff" fill-opacity="1" fill-rule="evenodd" stroke="none" d="m8.723 5.467-.01-.002L4.957 4.39 7.74 7.175c.1-.036.207-.055.319-.055.524 0 .948.425.948.95 0 .525-.424.951-.948.951-.524 0-.949-.426-.949-.95 0-.118.022-.23.06-.335L4.392 4.958l1.03 3.6.008.03.006.029c.252 1.222 1.333 2.14 2.623 2.14.294 0 .576-.048.84-.135l.468-.155.349.35 1.048 1.05 1.106-1.108-1.063-1.065-.343-.344.147-.463c.082-.257.126-.53.126-.817 0-1.25-.852-2.301-2.005-2.6l-.01-.003zM13 10.76l-1.67 1.675-.566.566-.565-.566-1.05-1.053c-.343.114-.71.175-1.09.175-1.679 0-3.08-1.192-3.406-2.778L3.259 3.906 3 3l.906.259 5.027 1.436c1.498.389 2.604 1.753 2.604 3.375 0 .37-.057.725-.163 1.06L13 10.76z"></path></svg></span></div><div class="related_content--relatedContentTileTitle--Ln3yk text--fontPos13--5OfL8 text--_fontBase--VaHfk">Harmony Club - Music Player App</div></a></div></div><hr><div id="commentsViewSection"><div><div class="comments--commentsCompose--SZByT"><div data-layer="type=Letter,size=Large" class="css-1bpj3d1"><div data-layer="letter" class="css-1mdxw0f">A</div><div class="css-grg6tf fg-absolute"></div></div><input class="comments--commentInput--OoNgj text--fontPos14--QJNQC text--_fontBase--VaHfk" type="text" placeholder="Add a comment"><button class="comments--commentPostButton--sVWSV resource_page--_button--7wre2 text--fontPos11--rO47d text--_fontBase--VaHfk" disabled="">Post</button></div><div class="comments--commentsHeader--Djulq text--fontPos11--rO47d text--_fontBase--VaHfk"><div>0 comments</div></div><div style="width: 0px; height: 0px;"></div></div></div></div><div class="meta_container--rightSide--1L1vd"><div class="community_promo_banner--communityPromoBanner--3V-xb text--fontPos11--rO47d text--_fontBase--VaHfk"><svg class="svg" width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M19.569 9.064c-1.684 1.235-3.677 1.967-5.749 2.12-.315-.69-1.012-1.17-1.82-1.17H8c-1.105 0-2 .896-2 2v4c0 1.105.895 2 2 2h.333l1.211 3.633c.272.816 1.037 1.367 1.897 1.367h1.172c.682 0 1.164-.668.948-1.316l-1.236-3.71c.667-.109 1.223-.548 1.495-1.143 2.072.153 4.065.885 5.749 2.12l.635.466c.33.242.796.006.796-.404V9.002c0-.41-.465-.646-.796-.403l-.635.466zm-8.29 8.95H9.387l1.106 3.316c.136.409.518.684.948.684h1.172l-1.334-4zm.721-1c.552 0 1-.447 1-1v-4c0-.552-.448-1-1-1H8c-.552 0-1 .448-1 1v4c0 .553.448 1 1 1h4zm2-1.159v-3.682c2.155-.179 4.228-.932 6-2.187v8.057c-1.772-1.256-3.845-2.009-6-2.188zM24.5 14c0-.828-.672-1.5-1.5-1.5v-1c1.38 0 2.5 1.12 2.5 2.5 0 1.38-1.12 2.5-2.5 2.5v-1c.828 0 1.5-.672 1.5-1.5z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg><div><b>This is a Figma Community file.</b>&nbsp;Community is a space for Figma users to share things they create. <a href="https://www.figma.com/signup">Get started with a free account →</a></div></div><h3 class="tags_container--tagsHeader--ARAOx text--fontPos14--QJNQC text--_fontBase--VaHfk">Tags</h3><div class="tags_container--tagsContainer--CiUZt"><a href="https://www.figma.com/community/tag/app/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">app</div></a><a href="https://www.figma.com/community/tag/app%20design/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">app design</div></a><a href="https://www.figma.com/community/tag/app%20ui/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">app ui</div></a><a href="https://www.figma.com/community/tag/ecommerce/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">ecommerce</div></a><a href="https://www.figma.com/community/tag/ecommerce%20app/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">ecommerce app</div></a><a href="https://www.figma.com/community/tag/nike/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">nike</div></a><a href="https://www.figma.com/community/tag/shoes/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">shoes</div></a><a href="https://www.figma.com/community/tag/shoes%20app/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">shoes app</div></a><a href="https://www.figma.com/community/tag/shoes%20store/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">shoes store</div></a><a href="https://www.figma.com/community/tag/ui/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">ui</div></a><a href="https://www.figma.com/community/tag/ui%20design/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">ui design</div></a><a href="https://www.figma.com/community/tag/uiux/files"><div class="tags_container--tag--7LZdh text--fontPos13--5OfL8 text--_fontBase--VaHfk">uiux</div></a></div><h3 class="social_links--socialLinksHeader--yGi7i text--fontPos14--QJNQC text--_fontBase--VaHfk">Share</h3><div class="social_links--socialLinksContainer--Oe13L"><div class="social_links--socialLink--KP8-x resource_page--pill--bx2wA" role="button" tabindex="0"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M5.525 13.657l2.652-2.652.707.707-2.652 2.652c-1.269 1.27-3.327 1.27-4.596 0-1.27-1.27-1.27-3.327 0-4.596l2.652-2.652.707.707-2.652 2.652c-.879.879-.879 2.303 0 3.182.879.879 2.303.879 3.182 0zm6.187-4.773l-.707-.707 2.652-2.652c.879-.879.879-2.303 0-3.182-.879-.879-2.303-.879-3.182 0L7.823 4.995l-.707-.707 2.652-2.652c1.269-1.27 3.327-1.27 4.596 0 1.27 1.27 1.27 3.327 0 4.596l-2.652 2.652zm-5.45 1.62l4.242-4.242-.766-.766-4.242 4.242.766.766z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></div><a class="social_links--socialLink--KP8-x resource_page--pill--bx2wA" href="https://twitter.com/intent/tweet?url=https://www.figma.com/community/file/1267043823501852517/footfrenzy-shoe-e-commerce-app&amp;text=Check%20out%20Footfrenzy-%20Shoe%20E-commerce%20App%20by%20Musab%20Alam%20on%20%40figma%3A" target="_blank"><svg class="svg" width="18" height="16" viewBox="0 0 18 16" xmlns="http://www.w3.org/2000/svg"><path d="M5.66 15.616c6.793 0 10.508-5.624 10.508-10.5 0-.16 0-.32-.01-.478.722-.522 1.346-1.169 1.842-1.91-.674.299-1.389.494-2.121.58.77-.46 1.348-1.186 1.624-2.04-.725.43-1.518.732-2.346.895-.556-.591-1.293-.983-2.095-1.114-.802-.132-1.625.005-2.341.388-.717.383-1.287.992-1.623 1.732-.336.74-.418 1.569-.234 2.36-1.468-.073-2.905-.455-4.216-1.119-1.311-.664-2.468-1.597-3.395-2.737-.472.813-.617 1.775-.405 2.69.213.915.766 1.715 1.548 2.237-.588-.018-1.162-.176-1.676-.462v.047c0 .852.295 1.677.835 2.337.54.66 1.292 1.112 2.128 1.28-.544.149-1.114.17-1.668.064.236.733.696 1.374 1.314 1.834.619.46 1.366.714 2.137.729-1.308 1.027-2.924 1.584-4.587 1.582-.294 0-.587-.018-.879-.053 1.689 1.083 3.654 1.658 5.66 1.655" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></a><a class="social_links--socialLink--KP8-x resource_page--pill--bx2wA" href="https://www.facebook.com/sharer/sharer.php?u=https://www.figma.com/community/file/1267043823501852517/footfrenzy-shoe-e-commerce-app" target="_blank"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M.883 0h14.234c.488 0 .883.395.883.883v14.234c0 .488-.395.883-.883.883H.883C.395 16 0 15.605 0 15.117V.883C0 .395.395 0 .883 0zM11.04 9.804V16H8.546V9.806H6.461V7.39h2.085v-1.78c0-2.067 1.262-3.192 3.107-3.192.622-.003 1.244.03 1.863.095v2.158h-1.277c-1.005 0-1.2.476-1.2 1.176v1.54h2.392l-.31 2.416H11.04z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></a></div><div class="metadata--metadataContainer--xoSPg text--fontPos13--5OfL8 text--_fontBase--VaHfk" data-testid="metadata-container"><div class="resource_page_metadata_badge--badgesContainer---gJPf text--fontPos13--5OfL8 text--_fontBase--VaHfk"><div class="cx_flex--uQqQ4 cx_gap8--C-Tsm cx_itemsCenter--q5Zbc cx_font13--W005d"><span class=" editor_type_badge--editorBadge16--qQ640" data-tooltip-type="text" data-tooltip="For Figma" data-testid="editor-type-badge-figma"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="#0d99ff" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M0 4c0-2.21 1.79-4 4-4h8c2.21 0 4 1.79 4 4v8c0 2.21-1.79 4-4 4H4c-2.21 0-4-1.79-4-4V4z"></path><path fill="#fff" fill-opacity="1" fill-rule="evenodd" stroke="none" d="m8.723 5.467-.01-.002L4.957 4.39 7.74 7.175c.1-.036.207-.055.319-.055.524 0 .948.425.948.95 0 .525-.424.951-.948.951-.524 0-.949-.426-.949-.95 0-.118.022-.23.06-.335L4.392 4.958l1.03 3.6.008.03.006.029c.252 1.222 1.333 2.14 2.623 2.14.294 0 .576-.048.84-.135l.468-.155.349.35 1.048 1.05 1.106-1.108-1.063-1.065-.343-.344.147-.463c.082-.257.126-.53.126-.817 0-1.25-.852-2.301-2.005-2.6l-.01-.003zM13 10.76l-1.67 1.675-.566.566-.565-.566-1.05-1.053c-.343.114-.71.175-1.09.175-1.679 0-3.08-1.192-3.406-2.778L3.259 3.906 3 3l.906.259 5.027 1.436c1.498.389 2.604 1.753 2.604 3.375 0 .37-.057.725-.163 1.06L13 10.76z"></path></svg></span><div>For Figma</div></div></div><div class="metadata_section--metadataSection--gPJ7b ellipsis--ellipsis--70pHK"><div class="metadata_section--metadataSectionText--XAwbc text--fontPos13--5OfL8 text--_fontBase--VaHfk"><div>Last updated <span class="">7 months ago</span></div><div class="metadata--supportInfo--N94qq ellipsis--ellipsis--70pHK">Support: <a href="mailto:musabalam22@gmail.com" class="metadata--shareLinkText--OTFeE" target="_blank" rel="nooppener noreferrer">musabalam22@gmail.com</a></div><div class="metadata--licensing--81C0k">Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" class="basic_form--inlineLink--aRePo blue_link--blueLink--4ER8T " rel="noopener">CC BY 4.0</a></div></div></div><a href="mailto:content-reviews@figma.com" class="metadata--flagAsInappropriate--4EO8n">Report resource</a></div></div></div></div><div class="resource_page--footerContainer--yKtZO"><div class="footer--footer--WeVrz text--fontPos13--5OfL8 text--_fontBase--VaHfk" data-testid="community-footer"><div class="footer--sectionsContainer--o0Cxb"><div class="css-18h1jy7"><div class="footer--sectionTitle--Tb5S2">Popular searches</div><a href="https://www.figma.com/community/search?resource_type=mixed&amp;sort_by=all_time&amp;query=resume&amp;editor_type=all&amp;price=all&amp;creators=all">Resume</a><a href="https://www.figma.com/community/search?resource_type=mixed&amp;sort_by=all_time&amp;query=design+system&amp;editor_type=all&amp;price=all&amp;creators=all">Design system</a><a href="https://www.figma.com/community/search?resource_type=mixed&amp;sort_by=all_time&amp;query=presentation&amp;editor_type=all&amp;price=all&amp;creators=all">Presentations</a><a href="https://www.figma.com/community/search?resource_type=mixed&amp;sort_by=all_time&amp;query=portfolio&amp;editor_type=all&amp;price=all&amp;creators=all">Portfolio</a><a href="https://www.figma.com/community/search?resource_type=mixed&amp;sort_by=all_time&amp;query=standup&amp;editor_type=all&amp;price=all&amp;creators=all">Standup template</a></div><div class="css-18h1jy7"><div class="footer--sectionTitle--Tb5S2">Most used</div><a href="https://www.figma.com/community/file/878585965681562011">Material Design Icons</a><a href="https://www.figma.com/community/file/1248375255495415511">Apple Design Resources</a><a href="https://www.figma.com/community/file/784448220678228461">Figma auto layout playground</a><a href="https://www.figma.com/community/plugin/857346721138427857/anima-figma-to-react-html-react-html-in-devmode">Anima - Figma to React, HTML</a><a href="https://www.figma.com/community/file/831698976089873405">Ant Design Open Source</a></div><div class="css-18h1jy7"><div class="footer--sectionTitle--Tb5S2">Trending resources</div><a href="https://www.figma.com/community/widget/1274481464484630971">JamBot</a><a href="https://www.figma.com/community/plugin/733902567457592893/autoflow">Autoflow</a><a href="https://www.figma.com/community/plugin/958202093377483021/mesh-gradient">Mesh gradient</a><a href="https://www.figma.com/community/plugin/1159123024924461424/html-to-design">html.to.design</a><a href="https://www.figma.com/community/widget/1294022067228783307">Status Stamp</a></div><div class="css-18h1jy7"><div class="footer--sectionTitle--Tb5S2">Top categories</div><a href="https://www.figma.com/community/category/inspiration">Inspiration</a><a href="https://www.figma.com/community/category/design-systems">Design Systems</a><a href="https://www.figma.com/community/category/visual-assets">Visual Assets</a><a href="https://www.figma.com/community/category/development">Development</a><a href="https://www.figma.com/community/category/jam-sessions">Team Syncs</a></div></div><div class="css-v933tu"><a href="https://www.figma.com/"><span class="svg-container footer--wordmark--keTrU"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="73" height="26" viewBox="0 0 73 26"><path fill="#000" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M.52.001v20.161l2.594.008v-9.6H9.37V8.031H3.114V2.538h8.146V0L.52.001zm15.409 4.093c.934 0 1.692-.758 1.692-1.692 0-.934-.758-1.692-1.692-1.692-.934 0-1.692.758-1.692 1.692 0 .934.758 1.692 1.692 1.692zm-1.32 2.537v13.535h2.594V6.631H14.61z"></path><path fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="none" d="M26.825 6.237c-3.445 0-5.849 2.913-5.849 6.372 0 3.46 2.404 6.373 5.849 6.373 1.577 0 2.877-.611 3.823-1.605v1.802c0 2.242-1.762 4.117-4.06 4.117-.827 0-1.648-.32-2.302-.771l-1.3 2.25c1.038.67 2.274 1.058 3.601 1.058 3.676 0 6.655-2.979 6.655-6.654V6.631h-2.594v1.21c-.946-.994-2.246-1.604-3.823-1.604zm-3.255 6.372c0-2.147 1.643-3.835 3.537-3.835 1.894 0 3.537 1.688 3.537 3.835 0 2.147-1.643 3.835-3.537 3.835-1.894 0-3.537-1.688-3.537-3.835z"></path><path fill="#000" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M42.59 8.774c-1.535 0-2.778 1.3-2.778 2.834v8.558h-2.594V6.63h2.594v1.24c.76-.982 1.88-1.634 3.341-1.634 1.818 0 3.213.903 4.02 2.284.9-1.334 2.365-2.284 4.129-2.284 2.952 0 4.79 2.382 4.808 5.329v8.6h-2.595v-8.558c0-1.534-1.243-2.834-2.777-2.834-1.534 0-2.777 1.3-2.777 2.834v8.558h-2.594v-8.558c0-1.534-1.244-2.834-2.778-2.834z"></path><path fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="none" d="M69.926 8.166c-1.154-1.192-2.735-1.93-4.568-1.93-3.86 0-6.598 3.268-6.598 7.163 0 3.894 2.739 7.162 6.598 7.162 1.833 0 3.414-.738 4.568-1.93v1.535h2.594V6.63h-2.594v1.535zm-8.572 5.233c0-2.584 1.978-4.625 4.286-4.625 2.308 0 4.286 2.04 4.286 4.625 0 2.583-1.978 4.624-4.286 4.624-2.308 0-4.286-2.04-4.286-4.624z"></path></svg></span></a><div><span>© 2023 Figma, Inc.</span><span class="footer--divider--ND-1j">•</span><a href="https://www.figma.com/sitemaps/figma-community-index.xml">Site map</a><span class="footer--divider--ND-1j">•</span><a href="https://help.figma.com/hc/en-us/articles/360038510573-Figma-Community-Guidelines">Community guidelines</a><span class="footer--divider--ND-1j">•</span><a href="https://www.figma.com/community-terms">Terms of service</a></div></div></div></div></div><div class="index--figmaAuthModal--Js1-z index--modalBackdrop--017DU" role="button" tabindex="0" style="visibility: hidden;"><div class="index--modal--bWMhE" style="opacity: 0; transform: scale(0.95);"></div></div></div></div></div></div>
+
+
+      <div class="file-browser-loading-page-container">
+  <div id="filebrowser-loading-page" class="filebrowser-loading-page filebrowser-loading-page-layout hidden fadeOut">
+    <div class="navbar"></div>
+
+    <!-- HAX: this sidebar is cloned and used outside of this page -->
+    <div id="filebrowser-loading-sidebar" class="filebrowser-loading-sidebar">
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+    </div>
+
+    <div class="page">
+
+
+      <div class="columns">
+
+
+        <div id="loading-content-pane" class="content filebrowser-loading-page">
+
+
+        </div>
+
+      </div>
+    </div>
+
+    <div id="filebrowser-loading-progress-bar"></div>
+  </div>
+</div>
+
+
+    <script nonce="" data-entrypoint="community">
+      window.ENTRY_POINT = document.currentScript.dataset.entrypoint
+    </script>
+
+    
+
+      <script nonce="">
+    window['sentryConfig'] = {
+    }
+  </script>
+
+        <script nonce="" src="./Footfrenzy_files/community.min.js.br" type="module"></script>
+
+
+  
+
+<iframe src="./Footfrenzy_files/saved_resource.html" aria-hidden="true" tabindex="-1" height="0" width="0" style="position: fixed; bottom: 0px; right: 0px; z-index: 2147483647; color-scheme: normal;"></iframe></body></html>
